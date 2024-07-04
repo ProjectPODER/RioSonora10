@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# ESTE ES EL PRIMER SLIDE
+# Grupo México, el responsable impune del desastre
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+(base de datos de concesiones mineras en Sonora, empresa subsidiaria, empresa matriz y beneficiarios reales mostrando que GLMV es dueño de la mayoría de las concesiones en Sonora)
