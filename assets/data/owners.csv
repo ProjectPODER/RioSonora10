@@ -1,0 +1,336 @@
+NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
+Minera Teck SA de CV,empresa,,
+Teck Resources Limited,empresa,Minera Teck SA de CV,parent
+China Investment Corp,empresa,Teck Resources Limited,shareholder
+Dodge & Cox,empresa,Teck Resources Limited,shareholder
+Vanguard Group Inc,empresa,Teck Resources Limited,shareholder
+Davis Selected Advisers Lp,empresa,Teck Resources Limited,shareholder
+Amundi Asset Management Sas,empresa,Teck Resources Limited,shareholder
+Fidelity International Ltd,empresa,Teck Resources Limited,shareholder
+Rbc Global Asset Management Inc,empresa,Teck Resources Limited,shareholder
+Boston Partners Global Investors Inc,empresa,Teck Resources Limited,shareholder
+Soroban Capital Partners Lp,empresa,Teck Resources Limited,shareholder
+Amundi Asset Management Us Inc,empresa,Teck Resources Limited,shareholder
+Janus Henderson Group Plc,empresa,Teck Resources Limited,shareholder
+Mackenzie Financial Corp,empresa,Teck Resources Limited,shareholder
+Dimensional Fund Advisors Lp,empresa,Teck Resources Limited,shareholder
+Cibc Asset Management Inc,empresa,Teck Resources Limited,shareholder
+Bmo Asset Management Corp,empresa,Teck Resources Limited,shareholder
+Duquesne Family Office Llc,empresa,Teck Resources Limited,shareholder
+Goldman Sachs Group Inc,empresa,Teck Resources Limited,shareholder
+Rbc Dominion Securities Inc,empresa,Teck Resources Limited,shareholder
+Sheila A Murray,persona,Teck Resources Limited,boardmember
+Norman B Keevil Iii,persona,Teck Resources Limited,boardmember
+Arnoud J Balhuizen,persona,Teck Resources Limited,boardmember
+Edward C Dowling Jr,persona,Teck Resources Limited,boardmember
+Una M Power,persona,Teck Resources Limited,boardmember
+Jonathan H Price,persona,Teck Resources Limited,boardmember
+Paul G Schiodtz,persona,Teck Resources Limited,boardmember
+Timothy Roy Snider,persona,Teck Resources Limited,boardmember
+Sarah A Strunk,persona,Teck Resources Limited,boardmember
+Yu Yamato,persona,Teck Resources Limited,boardmember
+Buenavista del Cobre SA de CV,empresa,,
+Grupo México SAB de CV,empresa,Buenavista del Cobre SA de CV,parent
+Empresarios Industriales De México SA De CV,empresa,Grupo México SAB de CV,shareholder
+German Larrea Mota-Velasco,persona,Grupo México SAB de CV,shareholder
+Invesco Ltd,empresa,Grupo México SAB de CV,shareholder
+Capital Research And Management Co,empresa,Grupo México SAB de CV,shareholder
+Blackrock Inc,empresa,Grupo México SAB de CV,shareholder
+Vanguard Group Inc,empresa,Grupo México SAB de CV,shareholder
+German Larrea Mota-Velasco,persona,Grupo México SAB de CV,boardmember
+Marlene Finny De La Torre,persona,Grupo México SAB de CV,boardmember
+Manuel Hallivis Perez,persona,Grupo México SAB de CV,boardmember
+Lillie Hernández Minor,persona,Grupo México SAB de CV,boardmember
+Lourdes Aranda Bezaury,persona,Grupo México SAB de CV,boardmember
+Jorge Marquez Abreu,persona,Grupo México SAB de CV,boardmember
+Mario Fernando Chavez Galas,persona,Grupo México SAB de CV,boardmember
+Oscar Gonzalez Rocha,persona,Grupo México SAB de CV,boardmember
+Jorge Hugo Meza Viveros,persona,Grupo México SAB de CV,boardmember
+Francisco Zinser Gonzalez,persona,Grupo México SAB de CV,boardmember
+Miguel Valdes Neaves,persona,Grupo México SAB de CV,boardmember
+Leonardo Contreras Lerdo De Tejada,persona,Grupo México SAB de CV,boardmember
+Nusantara de Mexico SA de CV,empresa,,
+First Majestic Silver Corp,empresa,Corporación First Majestic SA de CV,parent
+Corporación First Majestic SA de CV,empresa,Nusantara de Mexico SA de CV,parent
+Van Eck Associates Corp,empresa,First Majestic Silver Corp,shareholder
+Vanguard Group Inc,empresa,First Majestic Silver Corp,shareholder
+Global X Management Co Llc,empresa,First Majestic Silver Corp,shareholder
+Mirae Asset Global Investments Co Ltd,empresa,First Majestic Silver Corp,shareholder
+Keith N Neumeyer,persona,First Majestic Silver Corp,shareholder
+Dimensional Fund Advisors Lp,empresa,First Majestic Silver Corp,shareholder
+Thomas F Fudge Jr,persona,First Majestic Silver Corp,boardmember
+Marjorie Co,persona,First Majestic Silver Corp,boardmember
+Keith N Neumeyer,persona,First Majestic Silver Corp,boardmember
+Raymond L Polman,persona,First Majestic Silver Corp,boardmember
+Colette Rustad,persona,First Majestic Silver Corp,boardmember
+Recursos Millrock S de RL de CV,empresa,,
+Paget Southern Resources S de RL de CV,empresa,,
+Riverside Resources Mexico SA de CV,empresa,,
+Rrm Exploracion SAPI De CV,empresa,,
+Riverside Resources Inc,empresa,Recursos Millrock S de RL de CV,parent
+Riverside Resources Inc,empresa,Paget Southern Resources S de RL de CV,parent
+Riverside Resources Inc,empresa,Riverside Resources Mexico SA de CV,parent
+Riverside Resources Inc,empresa,Rrm Exploracion SAPI De CV,parent
+John-Mark Gardner Staude,persona,Riverside Resources Inc,shareholder
+Fuchs & Associes Finance Luxembourg Sa,empresa,Riverside Resources Inc,shareholder
+Euro Pacific Asset Management Llc,empresa,Riverside Resources Inc,shareholder
+Robert James Scott,persona,Riverside Resources Inc,shareholder
+Arriva Management Inc,empresa,Riverside Resources Inc,shareholder
+Wendy T Chan,persona,Riverside Resources Inc,boardmember
+James Clare,persona,Riverside Resources Inc,boardmember
+Walter C Henry,persona,Riverside Resources Inc,boardmember
+James Franz Ladner,persona,Riverside Resources Inc,boardmember
+John-Mark Gardner Staude,persona,Riverside Resources Inc,boardmember
+Minera María SA de CV ,empresa,,
+Compañía Internacional Minera,empresa,,
+Minera Frisco SAB de CV,empresa,Minera María SA de CV ,parent
+Minera Frisco SAB de CV,empresa,Compañía Internacional Minera,parent
+Evrim Resources (Barbados) Ltd,empresa,,
+Minera Evrim SA de CV,empresa,,
+Minera Inmet Mexico SA de CV,empresa,,
+Orogen Royalties Inc,empresa,Evrim Resources (Barbados) Ltd,parent
+Orogen Royalties Inc,empresa,Minera Evrim SA de CV,parent
+Minera Evrim SA de CV,empresa,Minera Inmet Mexico SA de CV,parent
+Altius Minerals Corp,empresa,Orogen Royalties Inc,shareholder
+Sprott Inc,empresa,Orogen Royalties Inc,shareholder
+Euro Pacific Asset Management Llc,empresa,Orogen Royalties Inc,shareholder
+Roland W Butler Jr,persona,Orogen Royalties Inc,shareholder
+Marco Locascio,persona,Orogen Royalties Inc,shareholder
+John Patrick Nicol,persona,Orogen Royalties Inc,shareholder
+Justin J Quigley,persona,Orogen Royalties Inc,boardmember
+Roland W Butler Jr,persona,Orogen Royalties Inc,boardmember
+Timothy Mark Janke,persona,Orogen Royalties Inc,boardmember
+John Patrick Nicol,persona,Orogen Royalties Inc,boardmember
+Samantha Lindsay Shorter,persona,Orogen Royalties Inc,boardmember
+First Silver Reserve,empresa,,
+Coanzamex Servicios SA de CV,empresa,,
+Gogold Resources Inc,empresa,First Silver Reserve,parent
+Gogold Resources Inc,empresa,Absolute Gold Holdings Incorporated,parent
+Absolute Gold Holdings Incorporated,empresa,Coanzamex Servicios SA de CV,parent
+Bradley H Langille,persona,Gogold Resources Inc,shareholder
+Franklin Resources Inc,empresa,Gogold Resources Inc,shareholder
+Van Eck Associates Corp,empresa,Gogold Resources Inc,shareholder
+Sprott Inc,empresa,Gogold Resources Inc,shareholder
+Global X Management Co Llc,empresa,Gogold Resources Inc,shareholder
+Anis Zafer Nehme,persona,Gogold Resources Inc,shareholder
+Ninepoint Partners Lp,empresa,Gogold Resources Inc,shareholder
+Fmr Llc,empresa,Gogold Resources Inc,shareholder
+John Stephen-Morris Turner,persona,Gogold Resources Inc,boardmember
+Terrence Raeburn Owen Robert Cooper,persona,Gogold Resources Inc,boardmember
+Karen Flores,persona,Gogold Resources Inc,boardmember
+Phillip Harry Gaunce,persona,Gogold Resources Inc,boardmember
+Bradley H Langille,persona,Gogold Resources Inc,boardmember
+Douglas Reid,persona,Gogold Resources Inc,boardmember
+Compañía Minera Dolores,empresa,,
+Minera Meridian Minerales S de RL de CV,empresa,,
+Pan American Silver Corp,empresa,Compañía Minera Dolores,parent
+Pan American Silver Corp,empresa,Yamana Gold Inc,parent
+Yamana Gold Inc,empresa,Minera Meridian Minerales S de RL de CV,parent
+Van Eck Associates Corp,empresa,Pan American Silver Corp,shareholder
+Blackrock Inc,empresa,Pan American Silver Corp,shareholder
+Vanguard Group Inc,empresa,Pan American Silver Corp,shareholder
+Fidelity International Ltd,empresa,Pan American Silver Corp,shareholder
+Global X Management Co Llc,empresa,Pan American Silver Corp,shareholder
+Mirae Asset Global Investments Co Ltd,empresa,Pan American Silver Corp,shareholder
+Invesco Ltd,empresa,Pan American Silver Corp,shareholder
+Slate Path Capital Lp,empresa,Pan American Silver Corp,shareholder
+Connor Clark & Lunn Investment Management Ltd,empresa,Pan American Silver Corp,shareholder
+Konwave Ag,empresa,Pan American Silver Corp,shareholder
+Teachers Insurance And Annuity Association-College Retirement Equities Fund,empresa,Pan American Silver Corp,shareholder
+Norges Bank Investment Management,empresa,Pan American Silver Corp,shareholder
+Azvalor Asset Mgmt,empresa,Pan American Silver Corp,shareholder
+Gillian Dawn Winckler,persona,Pan American Silver Corp,boardmember
+John A Begeman,persona,Pan American Silver Corp,boardmember
+Neil De Gelder,persona,Pan American Silver Corp,boardmember
+Chantal Gosselin,persona,Pan American Silver Corp,boardmember
+Charles A Jeannes,persona,Pan American Silver Corp,boardmember
+Kimberly A Keating,persona,Pan American Silver Corp,boardmember
+Jennifer Anne Maki,persona,Pan American Silver Corp,boardmember
+Kathleen E Sendall,persona,Pan American Silver Corp,boardmember
+Michael Steinmann,persona,Pan American Silver Corp,boardmember
+Desarrollos Mineros Parreña SA de CV,empresa,,
+Desarrollos Mineros El Aguila,empresa,,
+Compañía Minera La Parreña,empresa,,
+Flobarco,empresa,,
+Industrias Peñoles SAB de CV,empresa,Desarrollos Mineros Parreña SA de CV,parent
+Industrias Peñoles SAB de CV,empresa,Desarrollos Mineros El Aguila,parent
+Industrias Peñoles SAB de CV,empresa,Compañía Minera La Parreña,parent
+Industrias Peñoles SAB de CV,empresa,Flobarco,parent
+Albacor SA De CV,empresa,Industrias Peñoles SAB de CV,shareholder
+Alejandro Bailleres Gual,persona,Industrias Peñoles SAB de CV,shareholder
+Blackrock Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+First Eagle Investment Management Llc,empresa,Industrias Peñoles SAB de CV,shareholder
+Van Eck Associates Corp,empresa,Industrias Peñoles SAB de CV,shareholder
+Vanguard Group Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+Mirae Asset Global Investments Co Ltd,empresa,Industrias Peñoles SAB de CV,shareholder
+Dimensional Fund Advisors Lp,empresa,Industrias Peñoles SAB de CV,shareholder
+T Rowe Price Group Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+Geode Capital Management Llc,empresa,Industrias Peñoles SAB de CV,shareholder
+Alejandro Bailleres Gual,persona,Industrias Peñoles SAB de CV,boardmember
+Juan Bordes Aznar,persona,Industrias Peñoles SAB de CV,boardmember
+Juan Pablo Bailleres Gual,persona,Industrias Peñoles SAB de CV,boardmember
+Raul Bailleres Gual,persona,Industrias Peñoles SAB de CV,boardmember
+Juan Francisco Beckman Vidal,persona,Industrias Peñoles SAB de CV,boardmember
+Eduardo Cepeda Fernandez,persona,Industrias Peñoles SAB de CV,boardmember
+Jose Antonio Fernandez Carbajal,persona,Industrias Peñoles SAB de CV,boardmember
+Arturo Manuel Fernandez Perez,persona,Industrias Peñoles SAB de CV,boardmember
+José Octavio Figueroa García,persona,Industrias Peñoles SAB de CV,boardmember
+Jaime Lomelín Guillén,persona,Industrias Peñoles SAB de CV,boardmember
+Solitario Mexico,empresa,,
+Solitario Resources Corp,empresa,Solitario Mexico,parent
+Edgepoint Investment Group Inc,empresa,Solitario Resources Corp,shareholder
+Newmont Corp,empresa,Solitario Resources Corp,shareholder
+Gil Atzmon,persona,Solitario Resources Corp,shareholder
+Christopher Engle Herald,persona,Solitario Resources Corp,shareholder
+Long Focus Capital Management Llc,empresa,Solitario Resources Corp,shareholder
+James R Maronick,persona,Solitario Resources Corp,shareholder
+Jacob Asset Management Of New York Llc,empresa,Solitario Resources Corp,shareholder
+Vanguard Group Inc,empresa,Solitario Resources Corp,shareholder
+Renaissance Technologies Llc,empresa,Solitario Resources Corp,shareholder
+Walter H Hunt,persona,Solitario Resources Corp,shareholder
+Brian M Labadie,persona,Solitario Resources Corp,boardmember
+Gil Atzmon,persona,Solitario Resources Corp,boardmember
+Joshua Dale Crumb,persona,Solitario Resources Corp,boardmember
+Christopher Engle Herald,persona,Solitario Resources Corp,boardmember
+James K B Hesketh,persona,Solitario Resources Corp,boardmember
+Kennecott Minerals Inc,empresa,,
+Rio Tinto Group,empresa,Kennecott Minerals Inc,parent
+Aluminium Corp,empresa,Rio Tinto Group,shareholder
+Blackrock Inc,empresa,Rio Tinto Group,shareholder
+Vanguard Group Inc,empresa,Rio Tinto Group,shareholder
+State Street Global Advisors Inc,empresa,Rio Tinto Group,shareholder
+Norges Bank Investment Management,empresa,Rio Tinto Group,shareholder
+Coapital Research And Management Co,empresa,Rio Tinto Group,shareholder
+Wellington Management Group Llp,empresa,Rio Tinto Group,shareholder
+Fisher Asset Management Llc,empresa,Rio Tinto Group,shareholder
+Legal & General Investment Management Ltd,empresa,Rio Tinto Group,shareholder
+State Farm Mutual Automobile Insurance Co,empresa,Rio Tinto Group,shareholder
+Dominic Stephen Barton,persona,Rio Tinto Group,boardmember
+Wiliam Samuel Hugh Laidlaw,persona,Rio Tinto Group,boardmember
+Peter Lloyd Cunningham,persona,Rio Tinto Group,boardmember
+Simon Peter Henry,persona,Rio Tinto Group,boardmember
+Kaisa H Hietala,persona,Rio Tinto Group,boardmember
+Susan J Lloyd-Hurwitz,persona,Rio Tinto Group,boardmember
+Martina Merz,persona,Rio Tinto Group,boardmember
+Jennifer Nason,persona,Rio Tinto Group,boardmember
+James C O'rourke,persona,Rio Tinto Group,boardmember
+Jakob Stausholm,persona,Rio Tinto Group,boardmember
+Simon C Trott,persona,Rio Tinto Group,boardmember
+Bold Baatar,persona,Rio Tinto Group,boardmember
+Sinead Kaufman,persona,Rio Tinto Group,boardmember
+Alfredo Barrios,persona,Rio Tinto Group,boardmember
+Minera Hochschild Mexico SA de CV,empresa,,
+Hochschild Mining Plc,empresa,Minera Hochschild Mexico SA de CV,parent
+Eduardo Hochschild Beeck,persona,Hochschild Mining Plc,shareholder
+Blackrock Inc,empresa,Hochschild Mining Plc,shareholder
+Van Eck Associates Corp,empresa,Hochschild Mining Plc,shareholder
+Schroder Investment Management Ltd,empresa,Hochschild Mining Plc,shareholder
+Vanguard Group Inc,empresa,Hochschild Mining Plc,shareholder
+Barclays Bank Plc,empresa,Hochschild Mining Plc,shareholder
+Konwave Ag,empresa,Hochschild Mining Plc,shareholder
+Ruffer Llp,empresa,Hochschild Mining Plc,shareholder
+Legal & General Investment Management Ltd,empresa,Hochschild Mining Plc,shareholder
+Dimensional Fund Advisors Lp,empresa,Hochschild Mining Plc,shareholder
+Eduardo Hochschild Beeck,persona,Hochschild Mining Plc,boardmember
+Michael Ian Rawlinson,persona,Hochschild Mining Plc,boardmember
+Jorge Born Jr,persona,Hochschild Mining Plc,boardmember
+Jill Veronica Gardiner,persona,Hochschild Mining Plc,boardmember
+Tracey Louise Kerr,persona,Hochschild Mining Plc,boardmember
+Eduardo Landin Navarro,persona,Hochschild Mining Plc,boardmember
+Joanna Lynn Pearson,persona,Hochschild Mining Plc,boardmember
+Michel JG Sylvestre,persona,Hochschild Mining Plc,boardmember
+Minera Cascabel SA de CV ,empresa,,
+Minera Tlali SAPI de CV,empresa,,
+Minera Tlali SAPI de CV,empresa,International Mineral Development & Exploration Inc ,parent
+International Mineral Development & Exploration Inc ,empresa,Minera Cascabel SA de CV ,parent
+Minera Teck SA de CV,empresa,Minera Tlali SAPI de CV,shareholder
+Minera Piedra Azul SA De CV,empresa,Minera Tlali SAPI de CV,shareholder
+Anthony Paul Rovira,persona,Minera Tlali SAPI de CV,boardmember
+Diego Fernandez Balderas,persona,Minera Tlali SAPI de CV,boardmember
+Brett Douglas Dickson ,persona,Minera Tlali SAPI de CV,boardmember
+Michael David Buchanan,persona,Minera Tlali SAPI de CV,boardmember
+Mexus Gold Mining SA de CV,empresa,,
+Mexus Gold Us,empresa,Mexus Gold Mining SA de CV,parent
+Paul D Thompson Sr,persona,Mexus Gold Us,shareholder
+"Mexus Gold Mining, SA De CV",empresa,Mexus Gold Us,shareholder
+William James Mccreary,persona,Mexus Gold Us,shareholder
+Paul D Thompson Sr,persona,Mexus Gold Us,boardmember
+Grupo Bareyo SA de CV,empresa,,
+Pedro Antonio Goya Espina,persona,Grupo Bareyo SA de CV,shareholder
+Eliseo Goya Espina,persona,Grupo Bareyo SA de CV,shareholder
+Minera Zampano S de RL de CV,empresa,,
+Jorge Hernandez Velázquez,persona,Minera Zampano S de RL de CV,shareholder
+Juan José Duarte Bravo,persona,Minera Zampano S de RL de CV,shareholder
+Imr Metallurgical Resources Mexico,empresa,,
+Imr Metallurgical Resources Ag,empresa,Imr Metallurgical Resources Mexico,parent
+Minas del Rio Sonora SA de CV,empresa,,
+Elda Lorena Rodríguez Celaya,persona,Minas del Rio Sonora SA de CV,shareholder
+Francisco Navarro García,persona,Minas del Rio Sonora SA de CV,shareholder
+"Minera Lear del Desierto, SA de CV",empresa,,
+Luis Edgardo Aganza Robles,persona,"Minera Lear del Desierto, SA de CV",shareholder
+Maria Guadalupe Villegas Munguia,persona,"Minera Lear del Desierto, SA de CV",shareholder
+Tierra Nuevo Mining Ltd,empresa,,
+1832 Asset Management Lp,empresa,Tierra Nuevo Mining Ltd,shareholder
+Minera Auricup S de RL de CV,empresa,,
+Silver Lake Resources Limited,empresa,Egan Street Resources Limited ,parent
+Egan Street Resources Limited ,empresa,Minera Auricup S de RL de CV,parent
+Bny Asset Management,empresa,Silver Lake Resources Limited,shareholder
+Van Eck Associates Corp,empresa,Silver Lake Resources Limited,shareholder
+Vanguard Group Inc,empresa,Silver Lake Resources Limited,shareholder
+Blackrock Inc,empresa,Silver Lake Resources Limited,shareholder
+Paradice Investment Management Pty Ltd,empresa,Silver Lake Resources Limited,shareholder
+Ubs Asset Management Ag,empresa,Silver Lake Resources Limited,shareholder
+State Street Global Advisors Inc,empresa,Silver Lake Resources Limited,shareholder
+Invesco Ltd,empresa,Silver Lake Resources Limited,shareholder
+Dimensional Fund Advisors Lp,empresa,Silver Lake Resources Limited,shareholder
+Ruffer Llp,empresa,Silver Lake Resources Limited,shareholder
+David Francis Quinlivan,persona,Silver Lake Resources Limited,boardmember
+Kelvin Edward Flynn,persona,Silver Lake Resources Limited,boardmember
+Rebecca Prain,persona,Silver Lake Resources Limited,boardmember
+Luke Tonkin,persona,Silver Lake Resources Limited,boardmember
+Compañía Minera La Llamarada SA de CV,empresa,,
+Silvercrest Metals Inc,empresa,Compañía Minera La Llamarada SA de CV,parent
+Van Eck Associates Corp,empresa,Silvercrest Metals Inc,shareholder
+Sprott Inc,empresa,Silvercrest Metals Inc,shareholder
+Gilder Gagnon Howe & Co Llc,empresa,Silvercrest Metals Inc,shareholder
+Jupiter Fund Management Plc,empresa,Silvercrest Metals Inc,shareholder
+Tidal Investments Llc,empresa,Silvercrest Metals Inc,shareholder
+Mirae Asset Global Investments Co Ltd,empresa,Silvercrest Metals Inc,shareholder
+Invesco Ltd,empresa,Silvercrest Metals Inc,shareholder
+Maverick Mining Consultants Inc,empresa,Silvercrest Metals Inc,shareholder
+Dz Bank Ag,empresa,Silvercrest Metals Inc,shareholder
+Td Asset Management Inc,empresa,Silvercrest Metals Inc,shareholder
+John H Wright,persona,Silvercrest Metals Inc,boardmember
+Pierre Beaudoin,persona,Silvercrest Metals Inc,boardmember
+Nathan Eric Fler,persona,Silvercrest Metals Inc,boardmember
+Anna Man-Yue Ladd-Kruger,persona,Silvercrest Metals Inc,boardmember
+Ani Markova,persona,Silvercrest Metals Inc,boardmember
+Laura Cristina Diaz Nieves,persona,Silvercrest Metals Inc,boardmember
+Hannes Philip Portmann,persona,Silvercrest Metals Inc,boardmember
+Graham Campbell Thody,persona,Silvercrest Metals Inc,boardmember
+Minera Genminmex SA de CV,empresa,,
+Gold Springs Resource Corp,empresa,Minera Genminmex SA de CV,parent
+Antonio Canton,persona,Gold Springs Resource Corp,shareholder
+Konwave Ag,empresa,Gold Springs Resource Corp,shareholder
+Mackenzie Financial Corp,empresa,Gold Springs Resource Corp,shareholder
+Canada Life Investment Management Ltd,empresa,Gold Springs Resource Corp,shareholder
+Kevel Consulting Sa,empresa,Gold Springs Resource Corp,shareholder
+Ig Investment Management Ltd,empresa,Gold Springs Resource Corp,shareholder
+Catam Asset Management Ag,empresa,Gold Springs Resource Corp,shareholder
+Tina M Woodside-Shaw,persona,Gold Springs Resource Corp,shareholder
+Victor René Dario,persona,Gold Springs Resource Corp,shareholder
+Malaspina Consultants Inc,empresa,Gold Springs Resource Corp,shareholder
+Tina M Woodside-Shaw,persona,Gold Springs Resource Corp,boardmember
+Laurent Arnoux,persona,Gold Springs Resource Corp,boardmember
+Antonio Canton,persona,Gold Springs Resource Corp,boardmember
+Victor René Dario,persona,Gold Springs Resource Corp,boardmember
+Philippe Etienne Jouard,persona,Gold Springs Resource Corp,boardmember
+New Best International Mining Investment Group,empresa,,
+New Best Mining Investment Group,empresa,,
+Tianjin Binhai Harbor Port Int Trade,empresa,New Best International Mining Investment Group,parent
+Tianjin Binhai Harbor Port Int Trade,empresa,New Best Mining Investment Group,parent
+Liu Qingwu,persona,Tianjin Binhai Harbor Port Int Trade,boardmember
+Adit Resources Corp,empresa,,
+Continental Ore Corporation,empresa,,
+Framor Solar Plant 2,empresa,,
+Trinidad Pacifica S de RL de CV,empresa,,
