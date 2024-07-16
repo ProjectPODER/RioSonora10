@@ -1,0 +1,373 @@
+OCID,CONTRACT_TITLE,CONTRACT_TYPE,PROCUREMENT_METHOD,BUYER_NAME,SUPPLIER_NAMES,CONTRACT_START_DATE,CONTRACT_END_DATE,CONTRACT_AMOUNT,CONTRACT_CURRENCY
+1,Relleno Sanitario (26SO2018MD079),Permiso,Depósito o disposición de material,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2018,2024,4039,Hectáreas
+2,Exploración minera Directa “Las Cuarentas II” (26SO2016MD068),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Recursos Millrock S de RL de CV,2016,2024,42113905,Hectáreas
+3,Planta Concentradora “Buenavista Del Zinc” (26SO2018MD032),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2018,2024,43352,Hectáreas
+4,Esde II (26SO2016MD052),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2016,2024,23001,Hectáreas
+5,Quebalix III (26SO2011MD036),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2011,2024,4209,Hectáreas
+6,Instalaciones De Apoyo (26SO2014MD049),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2014,2024,842722,Hectáreas
+7,Exploración minera Directa “Santa Gertrudis” (26SO2018MD013),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Coanzamex Servicios SA de CV,2018,2024,40565,Hectáreas
+8,Ampliación De Terreros De Lixiviación Tinajas (26SO2016MD109),Permiso,Depósito o disposición de material,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2016,2024,83518,Hectáreas
+9,Infraestructura Del Área De Talleres Y Servicios (26SO2012MD091),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2012,2024,10607,Hectáreas
+10,Exploración minera Directa “Thor” (26SO2016MD014),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Riverside Resources Mexico SA de CV,2016,2024,672405,Hectáreas
+11,Nueva Presa De Jales “Buenavista Del Cobre” (26SO2013MD082),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,6539543,Hectáreas
+12,Apilador Para Quebalix IV (26SO2014MD140),Permiso,Depósito o disposición de material,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2014,2024,306,Hectáreas
+13,Corredor Industrial Y Área De Servicio (26SO2014MD132),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2014,2024,381721,Hectáreas
+14,Terreros Quebalix III (26SO2012MD031),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2012,2024,111949,Hectáreas
+15,Construcción De Presa De Jales No3 (26SO2008HD030),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Minera María SA de CV ,2008,2024,4950836,Hectáreas
+16,Pista De Aterrizaje (26MP03860317),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2019,2024,276089,Hectáreas
+17,Exploración minera Directa “Las Cuarentas” (26SO2012MD085),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Paget Southern Resources S de RL de CV,2012,2024,1766529,Hectáreas
+18,Proyecto Minero “Santa Elena” (26SO2008MD047),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2008,2024,2799,Hectáreas
+19,Línea De Transmisión Eléctrica (26SO2013ED090),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,15305,Hectáreas
+20,Exploración minera Directa “Ampliación Extensión Este De Veta Santa Elena” (26SO2015MD033),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2015,2024,3092,Hectáreas
+21,Áreas De Servicio Para Los Terreros De Lixiviación Tinajas (26SO2013MD032),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,80057,Hectáreas
+22,Área Para Disposición Temporal De Suelo (26SO2015MD010),Permiso,Depósito o disposición de material,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2015,2024,969,Hectáreas
+23,Concentradora De Cobre II (26SO2011MD087),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2011,2024,671153,Hectáreas
+24,Terreros De Lixiviación Tinajas (26SO2012MD070),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2012,2024,866203,Hectáreas
+25,Planta De Molibdeno Nueva (26SO2011MD065),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2011,2024,3092,Hectáreas
+26,Obras De Infraestructura De Comunicación Interna (26SO2013UD132),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,29541,Hectáreas
+27,Terminal De Transferencia De Carga (26SO2015MD008),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2015,2024,65928,Hectáreas
+28,Exploración minera Directa “Batamote” (26SO2017MD160),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Recursos Millrock S de RL de CV,2017,2024,7779614,Hectáreas
+29,Tepetatera Tinajas (26SO2012MD059),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2012,2024,832968,Hectáreas
+30,Terreros De Lixiviación Quebalix IV (26SO2015MD022),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2015,2024,2011491,Hectáreas
+31,Nuevo Sistema Abastecimiento De Agua (26SO2013UD133),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,151808,Hectáreas
+32,Sector Norte De La Primera Etapa De Zonas De Vivienda (26SO2013MD033),Permiso,Infraestructura minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,13576,Hectáreas
+33,Expansión Mina “Santa Elena” (26SO2013MD011),Permiso,Explotación minera (instalaciones),Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2013,2024,170582,Hectáreas
+34,Banco De Préstamo De Arcilla y Conglomerado (26SO2013MD112),Permiso,Depósito o disposición de material,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,130573,Hectáreas
+35,Exploración minera Directa “San Judas” (26SO2017MD060),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2017,2024,321627,Hectáreas
+36,Exploración minera Directa “El Durazno” (26SO2014MD093),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2014,2024,5455,Hectáreas
+37,Exploración minera Directa “El Ermitaño Este” (26SO2014MD055),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2014,2024,66342,Hectáreas
+38,Exploración minera Directa “El Ermitaño Oeste III” (26SO2019MD002),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2019,2024,191735,Hectáreas
+39,Exploración minera Directa “Buenavista De Zinc” (26SO2013MD055),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2013,2024,352175,Hectáreas
+40,Exploración minera Directa “El Alacrán” (26SO2017MD113),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Minera Teck SA de CV,2017,2024,787819,Hectáreas
+41,Exploración minera Directa “El Verde Norte II” (26SO2013MD079),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Minera María SA de CV ,2013,2024,676435,Hectáreas
+42,Exploración minera Directa “Santa Elena Porción Noroeste” (26SO2013MD167),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2013,2024,3045,Hectáreas
+43,Exploración minera Directa “El Alacrán II” (26SO2018MD074),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Minera Teck SA de CV,2018,2024,156277,Hectáreas
+44,Exploración minera Directa “Extensión Este De Veta Santa Elena” (26SO2014MD056),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2014,2024,8469,Hectáreas
+45,Exploración minera Directa “El Ermitaño” (26SO2014MD019),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2014,2024,81856,Hectáreas
+46,Exploración minera Directa “El Sarape” (26SO2018MD150),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Evrim Resources (Barbados) Ltd,2018,2024,833418,Hectáreas
+47,Exploración minera Directa “Ampliación El Durazno” (26SO2014MD142),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2014,2024,3627,Hectáreas
+48,Exploración minera Directa “Santa Elena Norte” (26SO2016MD025),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2016,2024,22751,Hectáreas
+49,Exploración minera Directa “El Verde Norte” (26SO2012MD128),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Minera María SA de CV ,2012,2024,158175,Hectáreas
+50,Exploración minera Directa “El Ermitaño Oeste” (26SO2016MD073),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2016,2024,55437,Hectáreas
+51,Exploración minera Directa “Buenavista De Zinc II” (26SO2014MD129),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Buenavista del Cobre SA de CV,2014,2024,428358,Hectáreas
+52,Exploración minera Directa “El Ermitaño Oeste II” (26SO2017MD042),Permiso,Exploración minera,Secretaría de Medio Ambiente y Recursos Naturales,Nusantara de Mexico SA de CV,2017,2024,239992,Hectáreas
+53,Mark 3 (232855),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,169,Hectáreas
+54,Mark 2 (232856),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,34991383,Hectáreas
+55,Mark 1 (232857),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,17135517,Hectáreas
+56,Mark 1 Fraccion 1 (232858),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,57143,Hectáreas
+57,Maria 54 (232231),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,14035,Hectáreas
+58,Maria 55 (232232),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,20,Hectáreas
+59,Lucero (232000),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,248,Hectáreas
+60,Sierra Pinta (232056),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,17436815,Hectáreas
+61,Sierra Pinta Iii (232057),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,1279657,Hectáreas
+62,Real De Cananea (231952),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,91,Hectáreas
+63,Real De Cananea (231953),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,100,Hectáreas
+64,Real De Cananea (231954),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,95,Hectáreas
+65,Real De Cananea (231955),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,95,Hectáreas
+66,Real De Cananea (231956),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,200,Hectáreas
+67,Agua Nueva-I (231414),Concesión,Concesión minera,Secretaría de Economía,Minera Cascabel SA de CV ,2018,2024,100,Hectáreas
+68,La Centella (231419),Concesión,Concesión minera,Secretaría de Economía,Minera Cascabel SA de CV ,2018,2024,19899843,Hectáreas
+69,Cananea (231469),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,47292345,Hectáreas
+70,Picacho Fracc I (230553),Concesión,Concesión minera,Secretaría de Economía,Adit Resources Corp,2018,2024,38132627,Hectáreas
+71,Tercero 7 (230381),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,266451,Hectáreas
+72,Reforma 1 (230384),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,4999578,Hectáreas
+73,Reforma 3 (230389),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,141326,Hectáreas
+74,Reforma 4 (230390),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,158,Hectáreas
+75,El Ermitaðo 1 (230421),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,122675516,Hectáreas
+76,Santa Elena (229986),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,500,Hectáreas
+77,San Felipe 3 (230094),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,39832,Hectáreas
+78,El Cuervo (230189),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,100,Hectáreas
+79,Paola (229409),Concesión,Concesión minera,Secretaría de Economía,Imr Metallurgical Resources Mexico,2018,2024,5145756,Hectáreas
+80,El Apuro (228838),Concesión,Concesión minera,Secretaría de Economía,Kennecott Minerals Inc,2018,2024,167214582,Hectáreas
+81,San Antonio (228941),Concesión,Concesión minera,Secretaría de Economía,Minera Genminmex SA de CV,2018,2024,35530927,Hectáreas
+82,Argonauta 4 (229005),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,21270216,Hectáreas
+83,San Felipe 2 Fracc I (228603),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,142560509,Hectáreas
+84,San Felipe 2 Fracc II (228604),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,12039,Hectáreas
+85,Tercera Ampl Al Gachi (228333),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,1400,Hectáreas
+86,Tercero (227998),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,703602,Hectáreas
+87,Coloraditas (227560),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,6640177,Hectáreas
+88,El Sol F 1 (227093),Concesión,Concesión minera,Secretaría de Economía,Minas del Rio Sonora SA de CV,2018,2024,285,Hectáreas
+89,El Sol F 2 (227094),Concesión,Concesión minera,Secretaría de Economía,Minas del Rio Sonora SA de CV,2018,2024,12,Hectáreas
+90,Santa Elena 7 (227239),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,18683444,Hectáreas
+91,Rey 2 (226800),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,585171,Hectáreas
+92,Tercero 6 (226577),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,905106,Hectáreas
+93,El Premio (225546),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,365356,Hectáreas
+94,El Premio 2 Fracc II (225591),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,15898,Hectáreas
+95,La Viri (225173),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,1788106,Hectáreas
+96,Santa Teresa (224333),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,76016,Hectáreas
+97,Zircon 27 (222881),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,84471,Hectáreas
+98,Zircon 28 (222882),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,157687,Hectáreas
+99,Elena 5 (221460),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,3998659,Hectáreas
+100,Las Aguilas (221208),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,47114218,Hectáreas
+101,Maria 29 (219347),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+102,Lolita (219016),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,30,Hectáreas
+103,Maria 26 (219213),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,1390974,Hectáreas
+104,Zircon 24 (218381),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,1505361,Hectáreas
+105,El Jaralito Fracc  I (218444),Concesión,Concesión minera,Secretaría de Economía,Flobarco,2018,2024,34439369,Hectáreas
+106,El Jaralito Fracc  III (218446),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Parreña,2018,2024,69932,Hectáreas
+107,Troya No 2 (217656),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,350,Hectáreas
+108,Mercurio (216887),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,100175849,Hectáreas
+109,Zircon 19 (216966),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,723634,Hectáreas
+110,Zircon 20 (216979),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,5129449,Hectáreas
+111,Maria 22 (215561),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,4185,Hectáreas
+112,Zircon 9 (215562),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,11722,Hectáreas
+113,Cuitaca XV (214585),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,64253985,Hectáreas
+114,Maria 23 (214637),Concesión,Concesión minera,Secretaría de Economía,Compañía Internacional Minera,2018,2024,29944,Hectáreas
+115,El Salto (214442),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4833333,Hectáreas
+116,Troya No 4 (212913),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,28,Hectáreas
+117,Santa Elena No 3 Fraccion Sw (180494),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,6416,Hectáreas
+118,Fracc 7 Agua Blanca I (202598),Concesión,Concesión minera,Secretaría de Economía,First Silver Reserve,2018,2024,459,Hectáreas
+119,Fracc 8 Agua Blanca I (202879),Concesión,Concesión minera,Secretaría de Economía,First Silver Reserve,2018,2024,495,Hectáreas
+120,Santa Elena (192174),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,241864,Hectáreas
+121,Cuitaca VI (210589),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,200,Hectáreas
+122,Maria 11 (199939),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+123,Maria 12 (199940),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+124,Maria 33 (200033),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+125,Maria 34 (200035),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,100,Hectáreas
+126,Zircon 11 (201989),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,3051218,Hectáreas
+127,Zircon 18 (201991),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,2076291,Hectáreas
+128,Zircon 22 (201992),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,1905436,Hectáreas
+129,Zircon 23 (201993),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,2195797,Hectáreas
+130,Maria 13 (200029),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+131,Maria 10 (200039),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+132,Maria 9 (201994),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,198,Hectáreas
+133,Zircon 10 (202127),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,3637769,Hectáreas
+134,Maria 14 (200020),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,180,Hectáreas
+135,Catalina (201037),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,14392794,Hectáreas
+136,El Alacran (201817),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,3442359,Hectáreas
+137,Esmeralda (201910),Concesión,Concesión minera,Secretaría de Economía,Compañía Internacional Minera,2018,2024,100,Hectáreas
+138,Evelin (201819),Concesión,Concesión minera,Secretaría de Economía,Compañía Internacional Minera,2018,2024,4535308,Hectáreas
+139,Maria 44 (201548),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,3172153,Hectáreas
+140,Elenita (201939),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,58924565,Hectáreas
+141,Maria 32 (200037),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,200,Hectáreas
+142,Zircon 17 (202777),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,16224069,Hectáreas
+143,Zircon 25 (202787),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,10870786,Hectáreas
+144,Maria 45 (203268),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,2531781,Hectáreas
+145,La Presa Fraccion II (225543),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,7213182,Hectáreas
+146,Santa Isabel (225544),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,250,Hectáreas
+147,Cobre Rico (225545),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,121718,Hectáreas
+148,La Primavera (225085),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,286628,Hectáreas
+149,La Presa Fraccion I (222923),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4790763,Hectáreas
+150,El Picacho I (222925),Concesión,Concesión minera,Secretaría de Economía,Adit Resources Corp,2018,2024,2155689,Hectáreas
+151,El Caracol Fracc I (220488),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,838811,Hectáreas
+152,El Caracol Fracc II (220489),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,1561,Hectáreas
+153,El Jaralito Fracc  II (218445),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Parreña,2018,2024,61149,Hectáreas
+154,Mina Irma (218464),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,185964,Hectáreas
+155,El Encino (218075),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,74093,Hectáreas
+156,Espiritu Santo Fraccion I (217589),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,7333232,Hectáreas
+157,Espiritu Santo Fraccion II (217590),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,877,Hectáreas
+158,Jaralito (217105),Concesión,Concesión minera,Secretaría de Economía,Continental Ore Corporation,2018,2024,25,Hectáreas
+159,El Pajaro (216163),Concesión,Concesión minera,Secretaría de Economía,Minera Cascabel SA de CV ,2018,2024,75,Hectáreas
+160,Zircon 6 (215563),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,271779,Hectáreas
+161,Unificacion La Verde (214977),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,50142093,Hectáreas
+162,Unificacion Angel (186586),Concesión,Concesión minera,Secretaría de Economía,Compañía Internacional Minera,2018,2024,4497519,Hectáreas
+163,Don Eduardo (178169),Concesión,Concesión minera,Secretaría de Economía,Compañía Internacional Minera,2018,2024,218951,Hectáreas
+164,Las Chispas (156924),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,447,Hectáreas
+165,Kino 2 (166313),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+166,Kino 9 (166316),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+167,Kino 10 (166317),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+168,Hidalgo No 4 (166366),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+169,Hidalgo No 3 (166368),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+170,Hidalgo No 2 (166369),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+171,Hidalgo No 5 (166370),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+172,Hidalgo No 6 (166371),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+173,Hidalgo No 8 (166372),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+174,Hidalgo No 7 (166373),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+175,Hidalgo (166374),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+176,Hidalgo 9 (166375),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,99,Hectáreas
+177,San Simon (166376),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+178,San Simon No 2 (166377),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+179,California (176544),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,18,Hectáreas
+180,Santa Elena No 4 (178094),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,636,Hectáreas
+181,El Gachi (182543),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,100,Hectáreas
+182,Kino 3 (166312),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+183,Cananea II (184662),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,3026564,Hectáreas
+184,Cananea III (184663),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4751443,Hectáreas
+185,Cuitaca IV (190000),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,9865,Hectáreas
+186,Cuitaca III (190010),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,126,Hectáreas
+187,Cuitaca V (190011),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,210,Hectáreas
+188,Marta (211526),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,3243773,Hectáreas
+189,Fraccion III Maria 46-1 (211244),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,15234258,Hectáreas
+190,Fraccion I Maria 46-1 (208534),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,195,Hectáreas
+191,Fraccion II Maria 46-1 Fraccion II (208536),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,55243,Hectáreas
+192,Kino 4 (166314),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+193,Kino 8 (166315),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+194,Kino 11 (166318),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+195,Kino No 15 (166365),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+196,Kino 16 (166367),Concesión,Concesión minera,Secretaría de Economía,Minera Tlali SAPI de CV,2018,2024,100,Hectáreas
+197,Cananea IV (184664),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4160456,Hectáreas
+198,Cananea V (184665),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4493518,Hectáreas
+199,Cananea VI (184666),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4790156,Hectáreas
+200,Cananea VII (184667),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,480,Hectáreas
+201,Cananea X (184670),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,480,Hectáreas
+202,Cananea VIII (184668),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,480,Hectáreas
+203,Cananea XI (184671),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4530342,Hectáreas
+204,Maria 43 (201021),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,2953767,Hectáreas
+205,Cananea (184661),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,4631361,Hectáreas
+206,Fernandez Leal (190472),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,31292,Hectáreas
+207,Guillermo Tell (191051),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,56521,Hectáreas
+208,Limantour (191060),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,45537,Hectáreas
+209,San Antonio (180467),Concesión,Concesión minera,Secretaría de Economía,Continental Ore Corporation,2018,2024,50,Hectáreas
+210,Dos Hermanos (180468),Concesión,Concesión minera,Secretaría de Economía,Continental Ore Corporation,2018,2024,49,Hectáreas
+211,Santa Elena (180461),Concesión,Concesión minera,Secretaría de Economía,Continental Ore Corporation,2018,2024,14,Hectáreas
+212,Cuitaca (189095),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,200,Hectáreas
+213,Cuitaca I (189098),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,200,Hectáreas
+214,Cuitaca VII (190012),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,210,Hectáreas
+215,Maria 42 (201022),Concesión,Concesión minera,Secretaría de Economía,Minera María SA de CV ,2018,2024,2785635,Hectáreas
+216,San Gotardo (210776),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,36171,Hectáreas
+217,Dolores (125315),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,12,Hectáreas
+218,Las Lamas (173713),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,5,Hectáreas
+219,Cornucopia (173714),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,37,Hectáreas
+220,Cerro De Plomo (173718),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,9,Hectáreas
+221,San Felipe (173716),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,18,Hectáreas
+222,La Ventana (173715),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,20,Hectáreas
+223,Guadalupe 2 (226165),Concesión,Concesión minera,Secretaría de Economía,Tierra Nuevo Mining Ltd,2018,2024,40,Hectáreas
+224,Tercero 3 Fracc II (225535),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,204,Hectáreas
+225,Rey 6 Fraccion 1 (225536),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,2182608,Hectáreas
+226,Rey 6 Fraccion 2 (225537),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,1651212,Hectáreas
+227,Rey (225563),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,760496,Hectáreas
+228,Rey 4 (225564),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,107,Hectáreas
+229,Rey 5 (225565),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,408008,Hectáreas
+230,Tercero 2 (225566),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,962071,Hectáreas
+231,Tercero 4 (225567),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,710381,Hectáreas
+232,Tercero 5 (225568),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,35168,Hectáreas
+233,Rey  V (224150),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,15972124,Hectáreas
+234,Mariana  3 (224188),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros El Aguila,2018,2024,381195,Hectáreas
+235,Maria 49 (223839),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,2811614,Hectáreas
+236,Elena 6 (223533),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,4160166,Hectáreas
+237,Bellotita (223635),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,106315,Hectáreas
+238,Sonora 90 (220443),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,20,Hectáreas
+239,La Segunda (220096),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,811984,Hectáreas
+240,El Bueno (219686),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,970251,Hectáreas
+241,Batman (217058),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,429,Hectáreas
+242,La Macha (216496),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,230209,Hectáreas
+243,El Premio 2 Fracc I (216319),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,72968,Hectáreas
+244,El Puente (215847),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,154,Hectáreas
+245,Dos Amigos (215696),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,81,Hectáreas
+246,Providencia (215697),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,9,Hectáreas
+247,La Labor (215786),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,60,Hectáreas
+248,Sonora 69 (213634),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,1183549,Hectáreas
+249,Argonauta (213646),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,3907005,Hectáreas
+250,Mariana (213353),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros El Aguila,2018,2024,70612,Hectáreas
+251,Nuevo Lupena (212971),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,13083,Hectáreas
+252,El Macho (212974),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,2656558,Hectáreas
+253,Sonora 35 (212787),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,2489768,Hectáreas
+254,La Cubana (212430),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,12,Hectáreas
+255,Rocio Fraccion I (225834),Concesión,Concesión minera,Secretaría de Economía,First Silver Reserve,2018,2024,90148899,Hectáreas
+256,Maria 48 (223838),Concesión,Concesión minera,Secretaría de Economía,Minera Teck SA de CV,2018,2024,320847,Hectáreas
+257,Real De Cananea (222691),Concesión,Concesión minera,Secretaría de Economía,Minera Zampano S de RL de CV,2018,2024,1815,Hectáreas
+258,La Luna # 4 (220937),Concesión,Concesión minera,Secretaría de Economía,Minas del Rio Sonora SA de CV,2018,2024,1475523,Hectáreas
+259,Mariana 2 (215898),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros El Aguila,2018,2024,917344,Hectáreas
+260,El Bervano Fraccion 1 (212027),Concesión,Concesión minera,Secretaría de Economía,Grupo Bareyo SA de CV,2018,2024,534183,Hectáreas
+261,La Estrella # 2 (206774),Concesión,Concesión minera,Secretaría de Economía,Framor Solar Plant 2,2018,2024,112,Hectáreas
+262,La Estrella (206669),Concesión,Concesión minera,Secretaría de Economía,Framor Solar Plant 2,2018,2024,90,Hectáreas
+263,La Virgen Mhm (233102),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,12172847,Hectáreas
+264,Ampliacion Las Lamas (214443),Concesión,Concesión minera,Secretaría de Economía,Minera Hochschild Mexico SA de CV,2018,2024,1317133,Hectáreas
+265,Santa Cecilia (234353),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,859101,Hectáreas
+266,Sierra Pinta IV Fracc 1 (234888),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,44318035,Hectáreas
+267,Sierra Pinta V (234889),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,6576027,Hectáreas
+268,Sierra Pinta IV Fracc 2 (234890),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,1918597,Hectáreas
+269,Gachi  2 Fracc 1 (235256),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,462223454,Hectáreas
+270,Gachi 2 Fracc 2 (235257),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,1418638,Hectáreas
+271,Gachi 2 Fracc 3 (235258),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,1931168,Hectáreas
+272,Hernandez Fracc I (235296),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,26136483,Hectáreas
+273,Hernandez Fracc 2 (235297),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,25,Hectáreas
+274,Hernandez Fracc 3 (235298),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,60,Hectáreas
+275,Hernandez Fracc 4 (235299),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,14,Hectáreas
+276,Hernandez Fracc 5 (235300),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,50,Hectáreas
+277,Hernandez 2 (235303),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,30270065,Hectáreas
+278,Laura (235370),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera Dolores,2018,2024,128,Hectáreas
+279,La Higuerita 1 (235518),Concesión,Concesión minera,Secretaría de Economía,Minera Teck SA de CV,2018,2024,1395268023,Hectáreas
+280,El Ermitaðo 2 (235605),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,4259226,Hectáreas
+281,Piedra 2 (235989),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,2311005,Hectáreas
+282,La Higuerita 2 (236065),Concesión,Concesión minera,Secretaría de Economía,Minera Teck SA de CV,2018,2024,2950,Hectáreas
+283,La Higuerita 3 (236066),Concesión,Concesión minera,Secretaría de Economía,Minera Teck SA de CV,2018,2024,32269425,Hectáreas
+284,Argonauta 5 Fraccion I (236193),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,562981556,Hectáreas
+285,La Higuerita 7 (236434),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,51669426,Hectáreas
+286,La Higuerita 4 (236440),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,64767,Hectáreas
+287,Babi (236794),Concesión,Concesión minera,Secretaría de Economía,Minera Inmet Mexico SA de CV,2018,2024,1049161,Hectáreas
+288,Mexicana (237381),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,147922,Hectáreas
+289,Sota (237785),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,2952,Hectáreas
+290,Carolina (237937),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,8825435,Hectáreas
+291,Mexus (238098),Concesión,Concesión minera,Secretaría de Economía,Mexus Gold Mining SA de CV,2018,2024,26457554,Hectáreas
+292,La Higuerita 8 (238161),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,6229737,Hectáreas
+293,Argonauta 8 (238166),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,11733752,Hectáreas
+294,Argonauta 9 F - 1 (238167),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,3382361,Hectáreas
+295,Argonauta 9 F - 2 (238168),Concesión,Concesión minera,Secretaría de Economía,Minera Meridian Minerales S de RL de CV,2018,2024,666451,Hectáreas
+296,Bueno 3 (238388),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,80,Hectáreas
+297,La Centella 2 (238397),Concesión,Concesión minera,Secretaría de Economía,Minera Cascabel SA de CV ,2018,2024,20,Hectáreas
+298,Ures (238538),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,5070223,Hectáreas
+299,Troya 3 (239316),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,1122695,Hectáreas
+300,Morelos 3 (239328),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,1727287,Hectáreas
+301,Salsipuedes (239339),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,14680934,Hectáreas
+302,Morelos 3 (239347),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,1404166,Hectáreas
+303,Salsipuedes-2 (239357),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,57043896,Hectáreas
+304,Morelos 3 (239419),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,1727984,Hectáreas
+305,Morelos 3 (239447),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,1176801,Hectáreas
+306,Bei Chen (239526),Concesión,Concesión minera,Secretaría de Economía,New Best International Mining Investment Group,2018,2024,39009559,Hectáreas
+307,Don Gu (239556),Concesión,Concesión minera,Secretaría de Economía,New Best International Mining Investment Group,2018,2024,48540199,Hectáreas
+308,Salsipuedes 3 (239729),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,239292561,Hectáreas
+309,Azul 3 (239884),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,168963311,Hectáreas
+310,Sonora 9 Fracc 2 (239908),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,8469234,Hectáreas
+311,Santo Verde I Fraccion 1 (239964),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,16337115,Hectáreas
+312,Santo Verde I Fraccion 2 (239965),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,3276248,Hectáreas
+313,Santo Verde I Fraccion 3 (239966),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,11895764,Hectáreas
+314,Da Gang Fracc 2 (240407),Concesión,Concesión minera,Secretaría de Economía,New Best Mining Investment Group,2018,2024,127763,Hectáreas
+315,Azul 2 (240530),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,3963971,Hectáreas
+316,Azul (240555),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,166674646,Hectáreas
+317,Piedra 1 (240788),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,400,Hectáreas
+318,Piedra 3 (240796),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,1230,Hectáreas
+319,Wu Qing (240814),Concesión,Concesión minera,Secretaría de Economía,New Best International Mining Investment Group,2018,2024,101725964,Hectáreas
+320,Chuqu+ 4 Fraccian A (240819),Concesión,Concesión minera,Secretaría de Economía,Coanzamex Servicios SA de CV,2018,2024,33382146,Hectáreas
+321,Toro Sur (241210),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,14883832,Hectáreas
+322,Da Gang Fracc 1 (241336),Concesión,Concesión minera,Secretaría de Economía,New Best Mining Investment Group,2018,2024,94876903,Hectáreas
+323,La Centella 3 (242107),Concesión,Concesión minera,Secretaría de Economía,Minera Cascabel SA de CV ,2018,2024,2474974,Hectáreas
+324,Coyotes (242242),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,108,Hectáreas
+325,Coyotes (242243),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,108,Hectáreas
+326,Coyotes (242244),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,108,Hectáreas
+327,Coyotes (242245),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,108,Hectáreas
+328,Llano Del Nogal Fracc 3 (242247),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,363295,Hectáreas
+329,Llano Del Nogal Fracc 2 (242248),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,244081,Hectáreas
+330,Coyotes (242249),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,176129,Hectáreas
+331,Llano Del Nogal Fracc 4 (242250),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,40764,Hectáreas
+332,Llano Del Nogal Fracc II (242252),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,43055083,Hectáreas
+333,Coyotes (242253),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,151,Hectáreas
+334,Llano Del Nogal Fracc 1 (242254),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,88236,Hectáreas
+335,Jirahuito (242385),Concesión,Concesión minera,Secretaría de Economía,"Minera Lear del Desierto, SA de CV",2018,2024,60,Hectáreas
+336,Ave Fenix (243027),Concesión,Concesión minera,Secretaría de Economía,Trinidad Pacifica S de RL de CV,2018,2024,3499713,Hectáreas
+337,Morelos 4 (243189),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,1839987,Hectáreas
+338,La Palma (243495),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,100,Hectáreas
+339,La Rosalia (243541),Concesión,Concesión minera,Secretaría de Economía,Minera Auricup S de RL de CV,2018,2024,19243997,Hectáreas
+340,La Palma (243542),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,3547071,Hectáreas
+341,El Salto (243669),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,16453935,Hectáreas
+342,Shu Yang (243719),Concesión,Concesión minera,Secretaría de Economía,New Best International Mining Investment Group,2018,2024,66660206,Hectáreas
+343,Maria 47 Red Alacran (243801),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,24008074,Hectáreas
+344,Washington U (243816),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,12192307,Hectáreas
+345,Morelos 2 (243842),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,11002,Hectáreas
+346,Nueva Reduccian La Higuerita Fracc 1 (244032),Concesión,Concesión minera,Secretaría de Economía,Minera Teck SA de CV,2018,2024,274941797,Hectáreas
+347,Rio Sonora 7 (244052),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,33442948,Hectáreas
+348,Maria 47 Div1 Alacran (243894),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,36982773,Hectáreas
+349,Maria 47 Div1 F-2 (243895),Concesión,Concesión minera,Secretaría de Economía,Buenavista del Cobre SA de CV,2018,2024,30707712,Hectáreas
+350,Morelos 2 (243924),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,7660,Hectáreas
+351,Sonora 9 F 1 (243927),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,5245,Hectáreas
+352,Los Cuarentas Fracc II Este (244227),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,46285229,Hectáreas
+353,Los Cuarentas Fracc III Este (244228),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,11978156,Hectáreas
+354,Los Cuarentas Fracc I Oeste (244229),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,4551921,Hectáreas
+355,Los Cuarentas Fracc II Oeste (244230),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,45295478,Hectáreas
+356,El Salto  1 Fracc 1 (244393),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,41202152,Hectáreas
+357,El Salto  1 Fracc 2 (244394),Concesión,Concesión minera,Secretaría de Economía,Nusantara de Mexico SA de CV,2018,2024,5345163,Hectáreas
+358,La Palma (244477),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,962294,Hectáreas
+359,Morelos 4 (244667),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,40754,Hectáreas
+360,Teo (244811),Concesión,Concesión minera,Secretaría de Economía,Rrm Exploracion SAPI De CV,2018,2024,111292368,Hectáreas
+361,La Palma (245145),Concesión,Concesión minera,Secretaría de Economía,Solitario Mexico,2018,2024,100,Hectáreas
+362,Llano Del Nogal Fracc I (245917),Concesión,Concesión minera,Secretaría de Economía,Minera Evrim SA de CV,2018,2024,37743543,Hectáreas
+363,Yegua U (245729),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,34694768,Hectáreas
+364,Toro U (245792),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,23231978,Hectáreas
+365,Rey Tercero U (245470),Concesión,Concesión minera,Secretaría de Economía,Desarrollos Mineros Parreña SA de CV,2018,2024,1423599,Hectáreas
+366,El Toro (245558),Concesión,Concesión minera,Secretaría de Economía,Recursos Millrock S de RL de CV,2018,2024,1900806,Hectáreas
+367,Las Chispas 3-A (245423),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,10809,Hectáreas
+368,Las Chispas 3-B (245424),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,3879,Hectáreas
+369,Las Chispas 3-C (245425),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,3413,Hectáreas
+370,Las Chispas 3-D (245426),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,3359,Hectáreas
+371,Las Chispas 3-E (245427),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,4241,Hectáreas
+372,Las Chispas 3-F (245428),Concesión,Concesión minera,Secretaría de Economía,Compañía Minera La Llamarada SA de CV,2018,2024,56112,Hectáreas
