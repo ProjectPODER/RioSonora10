@@ -20,7 +20,6 @@ El 6 de agosto de 2014 Grupo México derramó millones de litros de sustancias t
 [Evidencia tóxica]()
 [Contaminador serial]()
 [Lucha por la remediación]()
-[Justicia por el Río Sonora]()
 [Mapa tóxico]()
 
 
