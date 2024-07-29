@@ -1,0 +1,300 @@
+id,NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
+1,American Copper Mining,empresa,,
+2,Adit Resources Corp,empresa,American Copper Mining,parent
+3,Compañia Minera Zapata,empresa,,
+4,Almaden Minerals LTD,empresa,Compañia Minera Zapata,parent
+5,AE Wealth Management LLC,empresa,Almaden Minerals LTD,shareholder
+6,Alfredo Phillips ,persona,Almaden Minerals LTD,shareholder
+7,Arbor Point Advisors LLC,empresa,Almaden Minerals LTD,shareholder
+8,Bank of America Corp,empresa,Almaden Minerals LTD,shareholder
+9,Barclays Bank PLC,empresa,Almaden Minerals LTD,shareholder
+10,BNP Paribas Arbitrage SNC,empresa,Almaden Minerals LTD,shareholder
+11,Cambridge Investment Research Advisors Inc,empresa,Almaden Minerals LTD,shareholder
+12,Capital Analysts LLC,empresa,Almaden Minerals LTD,shareholder
+13,Cary Street Partners Investment Advisory LLC,empresa,Almaden Minerals LTD,shareholder
+14,Cerity Partners LLC,empresa,Almaden Minerals LTD,shareholder
+15,Citadel Advisors LLC,empresa,Almaden Minerals LTD,shareholder
+16,Commonwealth Equity Services LLC,empresa,Almaden Minerals LTD,shareholder
+17,Dimensional Fund Advisors LP,empresa,Almaden Minerals LTD,shareholder
+18,Douglas John McDonald,persona,Almaden Minerals LTD,shareholder
+19,Elaine Ellingham,persona,Almaden Minerals LTD,shareholder
+20,Group One Trading LP,empresa,Almaden Minerals LTD,shareholder
+21,Hamilton Capital LLC,empresa,Almaden Minerals LTD,shareholder
+22,James Duane Poliquin,persona,Almaden Minerals LTD,shareholder
+23,Kevin O&Kane ,persona,Almaden Minerals LTD,shareholder
+24,Kohima Pacific Gold Corp,empresa,Almaden Minerals LTD,shareholder
+25,Konwave Ag,empresa,Almaden Minerals LTD,shareholder
+26,Korm Trieu,persona,Almaden Minerals LTD,shareholder
+27,Lincoln Financial Investments Corp,empresa,Almaden Minerals LTD,shareholder
+28,Merrill Lynch Pierce Fenner & Smith Inc,empresa,Almaden Minerals LTD,shareholder
+29,Millennium Management LLC,empresa,Almaden Minerals LTD,shareholder
+30,Morgan James Poliquin,persona,Almaden Minerals LTD,shareholder
+31,Morgan Stanley,empresa,Almaden Minerals LTD,shareholder
+32,Rathbones Investment Management Ltd,empresa,Almaden Minerals LTD,shareholder
+33,RBC Dominion Securities Inc,empresa,Almaden Minerals LTD,shareholder
+34,Renaissance Technologies LLC,empresa,Almaden Minerals LTD,shareholder
+35,Ria Fitzgerald ,persona,Almaden Minerals LTD,shareholder
+36,Safeguard Investment Advisory Group LLC,empresa,Almaden Minerals LTD,shareholder
+37,Sprott Asset Management LP,empresa,Almaden Minerals LTD,shareholder
+38,Susquehanna International Group LLP,empresa,Almaden Minerals LTD,shareholder
+39,The Huntington Trust Company NA,empresa,Almaden Minerals LTD,shareholder
+40,Total Wealth Planning LLC,empresa,Almaden Minerals LTD,shareholder
+41,Two Sigma Securities LLC,empresa,Almaden Minerals LTD,shareholder
+42,UBS Asset Management AG,empresa,Almaden Minerals LTD,shareholder
+43,Compañia Minera La Pitahaya,empresa,,
+44,Minas de Argonautas S de RL de CV,empresa,,
+45,Argonaut Gold Inc,empresa,Compañia Minera La Pitahaya,parent
+46,Argonaut Gold Inc,empresa,Minas de Argonautas S de RL de CV,parent
+47,Minera Piedra Azul SA de CV,empresa,,
+48,Compañia Minera La Platina SA,empresa,,
+49,Tungsteno de Baviacora,empresa,,
+50,Continental Ore Corporation,empresa,Tungsteno de Baviacora,parent
+51,Desarrollos Aribabi,empresa,,
+52,Minera Auricup S de RL de CV,empresa,,
+53,Silver Lake Resources Limited,empresa,Egan Street Resources Limited ,parent
+54,Egan Street Resources Limited ,empresa,Minera Auricup S de RL de CV,parent
+55,Bny Asset Management,empresa,Silver Lake Resources Limited,shareholder
+56,Van Eck Associates Corp,empresa,Silver Lake Resources Limited,shareholder
+57,Vanguard Group Inc,empresa,Silver Lake Resources Limited,shareholder
+58,Blackrock Inc,empresa,Silver Lake Resources Limited,shareholder
+59,Paradice Investment Management Pty Ltd,empresa,Silver Lake Resources Limited,shareholder
+60,UBS Asset Management AG,empresa,Silver Lake Resources Limited,shareholder
+61,State Street Global Advisors Inc,empresa,Silver Lake Resources Limited,shareholder
+62,Invesco Ltd,empresa,Silver Lake Resources Limited,shareholder
+63,Dimensional Fund Advisors LP,empresa,Silver Lake Resources Limited,shareholder
+64,Ruffer LLP,empresa,Silver Lake Resources Limited,shareholder
+65,Minera Evrim SA de CV,empresa,,
+66,Minera Inmet Mexico SA de CV,empresa,,
+67,Orogen Royalties Inc,empresa,Minera Evrim SA de CV,parent
+68,Minera Evrim SA de CV,empresa,Minera Inmet Mexico SA de CV,parent
+69,Altius Minerals Corp,empresa,Orogen Royalties Inc,shareholder
+70,Sprott Inc,empresa,Orogen Royalties Inc,shareholder
+71,Euro Pacific Asset Management Llc,empresa,Orogen Royalties Inc,shareholder
+72,Roland W Butler Jr,persona,Orogen Royalties Inc,shareholder
+73,Marco Locascio,persona,Orogen Royalties Inc,shareholder
+74,John Patrick Nicol,persona,Orogen Royalties Inc,shareholder
+75,Minera Los Amoles SA de CV,empresa,,
+76,Nusantara de Mexico SA de CV,empresa,,
+77,First Majestic Silver Corp,empresa,Minera Los Amoles SA de CV,parent
+78,First Majestic Silver Corp,empresa,Corporación First Majestic SA de CV,parent
+79,Corporación First Majestic SA de CV,empresa,Nusantara de Mexico SA de CV,parent
+80,Van Eck Associates Corp,empresa,First Majestic Silver Corp,shareholder
+81,Vanguard Group Inc,empresa,First Majestic Silver Corp,shareholder
+82,Global X Management Co Llc,empresa,First Majestic Silver Corp,shareholder
+83,Mirae Asset Global Investments Co Ltd,empresa,First Majestic Silver Corp,shareholder
+84,Keith N Neumeyer,persona,First Majestic Silver Corp,shareholder
+85,Dimensional Fund Advisors LP,empresa,First Majestic Silver Corp,shareholder
+86,Minera Teloro,empresa,,
+87,Compañia Minera Framor,empresa,,
+88,Framor Solar Plant 2,empresa,Minera Teloro,parent
+89,Framor Solar Plant 2,empresa,Compañia Minera Framor,parent
+90,Minera Gateway,empresa,,
+91,Gateway Mining,empresa,Minera Gateway,parent
+92,Minera Alta Vista,empresa,,
+93,Global UAV Technologies Ltd,empresa,Minera Alta Vista,parent
+94,Recursos Escondidos SA de CV,empresa,,
+95,Coanzamex Servicios SA de CV,empresa,,
+96,Gogold Resources Inc,empresa,Recursos Escondidos SA de CV,parent
+97,Gogold Resources Inc,empresa,Absolute Gold Holdings Incorporated,parent
+98,Absolute Gold Holdings Incorporated,empresa,Coanzamex Servicios SA de CV,parent
+99,Bradley H Langille,persona,Gogold Resources Inc,shareholder
+100,Franklin Resources Inc,empresa,Gogold Resources Inc,shareholder
+101,Van Eck Associates Corp,empresa,Gogold Resources Inc,shareholder
+102,Sprott Inc,empresa,Gogold Resources Inc,shareholder
+103,Global X Management Co Llc,empresa,Gogold Resources Inc,shareholder
+104,Anis Zafer Nehme,persona,Gogold Resources Inc,shareholder
+105,Ninepoint Partners Lp,empresa,Gogold Resources Inc,shareholder
+106,Fmr Llc,empresa,Gogold Resources Inc,shareholder
+107,Minas De Oroco Resources,empresa,,
+108,Goldgroup Mining Inc,empresa,Minas De Oroco Resources,parent
+109,Grupo Bareyo SA de CV,empresa,,
+110,Pedro Antonio Goya Espina,persona,Grupo Bareyo SA de CV,shareholder
+111,Eliseo Goya Espina,persona,Grupo Bareyo SA de CV,shareholder
+112,Grupo Martinez Baltierrez,empresa,,
+113,Mexicana De Cobre SA de CV,empresa,,
+114,Minera Pilares SA de CV ,empresa,,
+115,Buenavista del Cobre SA de CV,empresa,,
+116,Grupo México SAB de CV,empresa,Mexicana De Cobre SA de CV,parent
+117,Grupo México SAB de CV,empresa,Minera Pilares SA de CV ,parent
+118,Grupo México SAB de CV,empresa,Americas Mining Corporation,parent
+119,Americas Mining Corporation,empresa,Southern Copper Corporation ,parent
+120,Southern Copper Corporation ,empresa,Buenavista del Cobre SA de CV,parent
+121,Empresarios Industriales De México SA De CV,empresa,Grupo México SAB de CV,shareholder
+122,German Larrea Mota-Velasco,persona,Grupo México SAB de CV,shareholder
+123,Invesco Ltd,empresa,Grupo México SAB de CV,shareholder
+124,Capital Research And Management Co,empresa,Grupo México SAB de CV,shareholder
+125,Blackrock Inc,empresa,Grupo México SAB de CV,shareholder
+126,Vanguard Group Inc,empresa,Grupo México SAB de CV,shareholder
+127,Minera Hochschild Mexico SA de CV,empresa,,
+128,Hochschild Mining Plc,empresa,Minera Hochschild Mexico SA de CV,parent
+129,Eduardo Hochschild Beeck,persona,Hochschild Mining Plc,shareholder
+130,Blackrock Inc,empresa,Hochschild Mining Plc,shareholder
+131,Van Eck Associates Corp,empresa,Hochschild Mining Plc,shareholder
+132,Schroder Investment Management Ltd,empresa,Hochschild Mining Plc,shareholder
+133,Vanguard Group Inc,empresa,Hochschild Mining Plc,shareholder
+134,Barclays Bank Plc,empresa,Hochschild Mining Plc,shareholder
+135,Konwave Ag,empresa,Hochschild Mining Plc,shareholder
+136,Ruffer LLP,empresa,Hochschild Mining Plc,shareholder
+137,Legal & General Investment Management Ltd,empresa,Hochschild Mining Plc,shareholder
+138,Dimensional Fund Advisors LP,empresa,Hochschild Mining Plc,shareholder
+139,Imr Metallurgical Resources Mexico,empresa,,
+140,Imr Metallurgical Resources Ag,empresa,Imr Metallurgical Resources Mexico,parent
+141,Compañia Fresnillo SA de CV,empresa,,
+142,Exploraciones Mineras Parreña SA de CV,empresa,,
+143,Minas Peñoles SA de CV,empresa,,
+144,Minera Bismark SA de CV,empresa,,
+145,Minera Pecobre SA de CV,empresa,,
+146,Desarrollos Mineros El Aguila,empresa,,
+147,Flobarco,empresa,,
+148,Industrias Peñoles SAB de CV,empresa,Compañia Fresnillo SA de CV,parent
+149,Industrias Peñoles SAB de CV,empresa,Exploraciones Mineras Parreña SA de CV,parent
+150,Industrias Peñoles SAB de CV,empresa,Minas Peñoles SA de CV,parent
+151,Industrias Peñoles SAB de CV,empresa,Minera Bismark SA de CV,parent
+152,Industrias Peñoles SAB de CV,empresa,Minera Pecobre SA de CV,parent
+153,Industrias Peñoles SAB de CV,empresa,Desarrollos Mineros El Aguila,parent
+154,Industrias Peñoles SAB de CV,empresa,Flobarco,parent
+155,Albacor SA De CV,empresa,Industrias Peñoles SAB de CV,shareholder
+156,Alejandro Bailleres Gual,persona,Industrias Peñoles SAB de CV,shareholder
+157,Blackrock Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+158,First Eagle Investment Management Llc,empresa,Industrias Peñoles SAB de CV,shareholder
+159,Van Eck Associates Corp,empresa,Industrias Peñoles SAB de CV,shareholder
+160,Vanguard Group Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+161,Mirae Asset Global Investments Co Ltd,empresa,Industrias Peñoles SAB de CV,shareholder
+162,Dimensional Fund Advisors LP,empresa,Industrias Peñoles SAB de CV,shareholder
+163,T Rowe Price Group Inc,empresa,Industrias Peñoles SAB de CV,shareholder
+164,Geode Capital Management Llc,empresa,Industrias Peñoles SAB de CV,shareholder
+165,Minera Tlali SAPI de CV,empresa,,
+166,Minera Cascabel SA de CV ,empresa,,
+167,Minera Tlali SAPI de CV,empresa,International Mineral Development & Exploration Inc ,parent
+168,International Mineral Development & Exploration Inc ,empresa,Minera Cascabel SA de CV ,parent
+169,Minera Teck SA de CV,empresa,Minera Tlali SAPI de CV,shareholder
+170,Minera Piedra Azul SA de CV,empresa,Minera Tlali SAPI de CV,shareholder
+171,Minera Mexital SA de CV,empresa,,
+172,Mex Ital,empresa,Minera Mexital SA de CV,parent
+173,Compañia Minera Mexivada,empresa,,
+174,Mexivada Mining Corp,empresa,Compañia Minera Mexivada,parent
+175,Mexus Gold Mining SA de CV,empresa,,
+176,Mexus Gold Us,empresa,Mexus Gold Mining SA de CV,parent
+177,Paul D Thompson Sr,persona,Mexus Gold Us,shareholder
+178,Mexus Gold Mining SA de CV,empresa,Mexus Gold Us,shareholder
+179,William James Mccreary,persona,Mexus Gold Us,shareholder
+180,Minas del Rio Sonora SA de CV,empresa,,
+181,Elda Lorena Rodríguez Celaya,persona,Minas del Rio Sonora SA de CV,shareholder
+182,Francisco Navarro García,persona,Minas del Rio Sonora SA de CV,shareholder
+183,Corex Global S de RL de CV,empresa,,
+184,Minera Alamos Inc,empresa,Corex Global S de RL de CV,parent
+185,Minera Ches Mex S de RL de CV,empresa,,
+186,Minera Maria SA de CV ,empresa,,
+187,Compañia Internacional Minera,empresa,,
+188,Minera Frisco SAB de CV,empresa,Minera Maria SA de CV ,parent
+189,Minera Frisco SAB de CV,empresa,Compañia Internacional Minera,parent
+190,Carlos Slim Helu,persona,Minera Frisco SAB de CV,shareholder
+191,Operadora Inbursa de Fondos de Inversión SA de CV Grupo Financiero Inbursa,empresa,Minera Frisco SAB de CV,shareholder
+192,Minera Lear del Desierto SA de CV,empresa,,
+193,Luis Edgardo Aganza Robles,persona,Minera Lear del Desierto SA de CV,shareholder
+194,Maria Guadalupe Villegas Munguia,persona,Minera Lear del Desierto SA de CV,shareholder
+195,Minera Vermillion,empresa,,
+196,Minera Zampano S de RL de CV,empresa,,
+197,Jorge Hernandez Velázquez,persona,Minera Zampano S de RL de CV,shareholder
+198,Juan José Duarte Bravo,persona,Minera Zampano S de RL de CV,shareholder
+199,Open Organization Solutions S de RL de CV,empresa,,
+200,Oro Rico Ltd,empresa,,
+201,Compañia Minera Dolores,empresa,,
+202,Pan American Minerals Inc ,empresa,,
+203,Minera Meridian Minerales S de RL de CV,empresa,,
+204,Pan American Silver Corp,empresa,Compañia Minera Dolores,parent
+205,Pan American Silver Corp,empresa,Pan American Minerals Inc ,parent
+206,Pan American Silver Corp,empresa,Yamana Gold Inc,parent
+207,Yamana Gold Inc,empresa,Minera Meridian Minerales S de RL de CV,parent
+208,Van Eck Associates Corp,empresa,Pan American Silver Corp,shareholder
+209,Blackrock Inc,empresa,Pan American Silver Corp,shareholder
+210,Vanguard Group Inc,empresa,Pan American Silver Corp,shareholder
+211,Fidelity International Ltd,empresa,Pan American Silver Corp,shareholder
+212,Global X Management Co Llc,empresa,Pan American Silver Corp,shareholder
+213,Mirae Asset Global Investments Co Ltd,empresa,Pan American Silver Corp,shareholder
+214,Invesco Ltd,empresa,Pan American Silver Corp,shareholder
+215,Slate Path Capital Lp,empresa,Pan American Silver Corp,shareholder
+216,Connor Clark & Lunn Investment Management Ltd,empresa,Pan American Silver Corp,shareholder
+217,Konwave Ag,empresa,Pan American Silver Corp,shareholder
+218,Teachers Insurance And Annuity Association-College Retirement Equities Fund,empresa,Pan American Silver Corp,shareholder
+219,Norges Bank Investment Management,empresa,Pan American Silver Corp,shareholder
+220,Azvalor Asset Mgmt,empresa,Pan American Silver Corp,shareholder
+221,Paget Southern Resources S de RL de CV,empresa,,
+222,Recursos Millrock S de RL de CV,empresa,,
+223,Riverside Resources Mexico SA de CV,empresa,,
+224,Rrm Minas S de Rl de CV ,empresa,,
+225,Riverside Resources Inc,empresa,Paget Southern Resources S de RL de CV,parent
+226,Riverside Resources Inc,empresa,Recursos Millrock S de RL de CV,parent
+227,Riverside Resources Inc,empresa,Riverside Resources Mexico SA de CV,parent
+228,Riverside Resources Inc,empresa,Rrm Minas S de Rl de CV ,parent
+229,John-Mark Gardner Staude,persona,Riverside Resources Inc,shareholder
+230,Fuchs & Associes Finance Luxembourg Sa,empresa,Riverside Resources Inc,shareholder
+231,Euro Pacific Asset Management Llc,empresa,Riverside Resources Inc,shareholder
+232,Robert James Scott,persona,Riverside Resources Inc,shareholder
+233,Arriva Management Inc,empresa,Riverside Resources Inc,shareholder
+234,Roma Recursos de Mexico,empresa,,
+235,Rome Resources Ltd,empresa,Roma Recursos de Mexico,parent
+236,Compañia Minera La Llamarada SA de CV,empresa,,
+237,Silvercrest Metals Inc,empresa,Compañia Minera La Llamarada SA de CV,parent
+238,Van Eck Associates Corp,empresa,Silvercrest Metals Inc,shareholder
+239,Sprott Inc,empresa,Silvercrest Metals Inc,shareholder
+240,Gilder Gagnon Howe & Co Llc,empresa,Silvercrest Metals Inc,shareholder
+241,Jupiter Fund Management Plc,empresa,Silvercrest Metals Inc,shareholder
+242,Tidal Investments Llc,empresa,Silvercrest Metals Inc,shareholder
+243,Mirae Asset Global Investments Co Ltd,empresa,Silvercrest Metals Inc,shareholder
+244,Invesco Ltd,empresa,Silvercrest Metals Inc,shareholder
+245,Maverick Mining Consultants Inc,empresa,Silvercrest Metals Inc,shareholder
+246,Dz Bank Ag,empresa,Silvercrest Metals Inc,shareholder
+247,Td Asset Management Inc,empresa,Silvercrest Metals Inc,shareholder
+248,Solitario Mexico,empresa,,
+249,Solitario Resources Corp,empresa,Solitario Mexico,parent
+250,Edgepoint Investment Group Inc,empresa,Solitario Resources Corp,shareholder
+251,Newmont Corp,empresa,Solitario Resources Corp,shareholder
+252,Gil Atzmon,persona,Solitario Resources Corp,shareholder
+253,Christopher Engle Herald,persona,Solitario Resources Corp,shareholder
+254,Long Focus Capital Management Llc,empresa,Solitario Resources Corp,shareholder
+255,James R Maronick,persona,Solitario Resources Corp,shareholder
+256,Jacob Asset Management Of New York Llc,empresa,Solitario Resources Corp,shareholder
+257,Vanguard Group Inc,empresa,Solitario Resources Corp,shareholder
+258,Renaissance Technologies LLC,empresa,Solitario Resources Corp,shareholder
+259,Walter H Hunt,persona,Solitario Resources Corp,shareholder
+260,Minera Mar de Plata,empresa,,
+261,Sonoro Metals Corp,empresa,Minera Mar De Plata,parent
+262,Suimex Interprospekt De Mexico S de RL de CV,empresa,,
+263,New Best International Mining Investment Group,empresa,,
+264,Tianjin Binhai Harbor Port Int Trade,empresa,New Best International Mining Investment Group,parent
+265,Minera Teck SA de CV,empresa,,
+266,Teck Resources Limited,empresa,Minera Teck SA de CV,parent
+267,China Investment Corp,empresa,Teck Resources Limited,shareholder
+268,Dodge & Cox,empresa,Teck Resources Limited,shareholder
+269,Vanguard Group Inc,empresa,Teck Resources Limited,shareholder
+270,Davis Selected Advisers Lp,empresa,Teck Resources Limited,shareholder
+271,Amundi Asset Management Sas,empresa,Teck Resources Limited,shareholder
+272,Fidelity International Ltd,empresa,Teck Resources Limited,shareholder
+273,RBC Global Asset Management Inc,empresa,Teck Resources Limited,shareholder
+274,Boston Partners Global Investors Inc,empresa,Teck Resources Limited,shareholder
+275,Soroban Capital Partners Lp,empresa,Teck Resources Limited,shareholder
+276,Amundi Asset Management Us Inc,empresa,Teck Resources Limited,shareholder
+277,Janus Henderson Group Plc,empresa,Teck Resources Limited,shareholder
+278,Mackenzie Financial Corp,empresa,Teck Resources Limited,shareholder
+279,Dimensional Fund Advisors LP,empresa,Teck Resources Limited,shareholder
+280,Cibc Asset Management Inc,empresa,Teck Resources Limited,shareholder
+281,Bmo Asset Management Corp,empresa,Teck Resources Limited,shareholder
+282,Duquesne Family Office Llc,empresa,Teck Resources Limited,shareholder
+283,Goldman Sachs Group Inc,empresa,Teck Resources Limited,shareholder
+284,RBC Dominion Securities Inc,empresa,Teck Resources Limited,shareholder
+285,Tierra Nuevo Mining Ltd,empresa,,
+286,1832 Asset Management Lp,empresa,Tierra Nuevo Mining Ltd,shareholder
+287,Minera Genminmex SA de CV,empresa,,
+288,Gold Springs Resource Corp,empresa,Minera Genminmex SA de CV,parent
+289,Antonio Canton,persona,Gold Springs Resource Corp,shareholder
+290,Konwave Ag,empresa,Gold Springs Resource Corp,shareholder
+291,Mackenzie Financial Corp,empresa,Gold Springs Resource Corp,shareholder
+292,Canada Life Investment Management Ltd,empresa,Gold Springs Resource Corp,shareholder
+293,Kevel Consulting Sa,empresa,Gold Springs Resource Corp,shareholder
+294,Ig Investment Management Ltd,empresa,Gold Springs Resource Corp,shareholder
+295,Catam Asset Management Ag,empresa,Gold Springs Resource Corp,shareholder
+296,Tina M Woodside-Shaw,persona,Gold Springs Resource Corp,shareholder
+297,Victor René Dario,persona,Gold Springs Resource Corp,shareholder
+298,Malaspina Consultants Inc,empresa,Gold Springs Resource Corp,shareholder
+299,Trinidad Pacifica S de RL de CV,empresa,,
