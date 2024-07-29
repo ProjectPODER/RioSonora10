@@ -3,6 +3,6 @@ title: Slide 3
 image: graphic-example3.png
 ---
 
-# 10º aniversario
+# CCRS presentan 5 amparos exigen justicia y reparación
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Con los amparos, la población afectada por el derrame exige que las autoridades garanticen la participación de los Comités de Cuenca en los planes de remediación del derrame, que las mineras respeten el medio ambiente y hacer que Buenavista del Cobre y el Gobierno Federal reparen el daño de forma integral.

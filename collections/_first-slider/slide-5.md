@@ -1,8 +1,8 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+video: https://www.youtube.com/embed/THR0k5I9cjg?si=JvSl_sXQmzAIXO2e
 ---
 
-# 5º aniversario
+# 6 años de promesas incumplidas
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Desde los ríos Sonora y Bacanuchi, sitios de lucha y dignidad en donde hace seis años Grupo México arrojó 40 millones de litros de metales pesados y no tuvimos ni remediación, ni justicia, ni posturas claras de las autoridades, elevamos la voz para expresar la indignación que atraviesan nuestros pueblos y reafirmamos la postura de seguir exigiendo un río seguro, limpio, y digno para sus habitantes.

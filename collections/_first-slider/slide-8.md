@@ -3,6 +3,6 @@ title: Slide 3
 image: graphic-example3.png
 ---
 
-# 8º aniversario
+# CCRS ganan amparo por contaminación del agua y demandan al gobierno por no atender su salud
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+A tres años del derrame CCRS ganaron un juicio de amparo por la contaminación del agua en dos pozos de la región, y han demandado a tres instituciones de salud —ISSSTESON, IMSS y Secretaría de Salud— por la falta de atención a la población afectada por el derrame.

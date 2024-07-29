@@ -1,8 +1,8 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+image: aniversarioCCRS.png
 ---
 
-# 6º aniversario
+# 5 aniversario los CCRS se manifiestan afuera de la SCJN
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+En un acto público en las afueras de la Suprema Corte exigieron a la Corte revisar las operaciones del Fideicomiso Río Sonora, un mecanismo privado acordado por la empresa y el Gobierno Federal de Enrique Peña Nieto, y reabrirlo “hasta que se cumplan sus objetivos y se hayan concluido los procesos jurídicos de reclamaciones en su contra”.

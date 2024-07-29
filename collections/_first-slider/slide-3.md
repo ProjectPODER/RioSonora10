@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+video: https://www.youtube.com/embed/m3bJwItwTS4?si=ySHukA1-gnJTl_49
 ---
 
 # Por las afectaciones a la salud Grupo México: ¡Hazte responsable!
