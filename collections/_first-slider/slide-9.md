@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+image: 2 aniv bacanuchi.png
 ---
 
 # A dos años del derrame CCRS anuncian victorias legales en EU
