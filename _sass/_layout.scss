@@ -10,6 +10,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: bold;
 }
 
+h1 {
+    font-family: "itcAvantGarde";
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "colbyBold";
+}
+
 blockquote {
     padding: 13.5px 27px;
     margin: 0 0 27px;
@@ -28,4 +36,14 @@ a {
 
 .min-vh-100 {
     min-height: 100vh !important;
+}
+
+@font-face {
+    font-family: "itcAvantGarde";
+    src: url('./fonts/ITC Avant Garde Gothic Pro-Bold.otf');
+}
+
+@font-face {
+    font-family: "colbyBold";
+    src: url('./fonts/Colby Bold.otf');
 }
