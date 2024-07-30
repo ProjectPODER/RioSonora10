@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-video: https://www.youtube.com/watch?v=7aEhbAzI7lI&ab_channel=ProjectPODER
+video: https://www.youtube.com/embed/7aEhbAzI7lI?si=AQ_dawyRId2e7M0u
 ---
 
 # CCRS ganan amparo por contaminación del agua y demandan al gobierno por no atender su salud
