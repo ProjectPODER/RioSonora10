@@ -1,7 +1,9 @@
 section#contracts_page {
-    
+
     .contracts-content {
-        
+        p {
+            color: white;
+        }
         .contract-search {
             display: block;
             width: 100%;
@@ -12,11 +14,15 @@ section#contracts_page {
                 margin-bottom: 5px;
                 // font-size: 1.2rem;
             }
+            .search-title {
+                font-weight: 800;
+                color: white;
+            }
         }
-        
+
         .contract-filter {
             margin-bottom: 40px;
-            
+
             .filter-box {
                 .info-icon {
                     width: 16px;
@@ -33,15 +39,36 @@ section#contracts_page {
                 }
                 .filter-title {
                     position: relative;
-                    font-weight: bold;
                     float: left;
                     display: block;
+                    font-weight: 800;
+                    color: white;
                 }
             }
         }
-    }   
+    }
+    table.dataTable tbody tr {
+        background-color: $eight;
+    }
+    table.dataTable th.dt-left, table.dataTable th.dt-center, table.dataTable th.dt-right{
+        color: white !important;
+    }
 }
 
 table.dataTable tbody tr.odd, table.dataTable tbody tr.even  {
     cursor: pointer;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    color: white !important;
+    background: $twelve !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    color: white !important;
+    background: $twelve !important;
+}
+
+.form-control {
+    background-color: $eight;
 }

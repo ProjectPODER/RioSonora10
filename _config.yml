@@ -38,7 +38,7 @@ bods_url: ""
 
 graph:
   # EL nombre de tu gráfico
-  - title: "Nombre del gráfico"
+  - title: "Minería en el Río Sonora"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximado)
   - sizes:
     - min: 10
@@ -46,10 +46,10 @@ graph:
   # colores de nodos y connectores
   - colours:
       - nodes:
-          - default: '#1ee6d3'
-          - contract: '#1ee6d3'
-          - contractTypes: '#3abdc3'
-          - contractByType: '#438a9c'
+          - default: '#00b381'
+          - contract: '#00b381'
+          - contractTypes: '#ffcf03'
+          - contractByType: '#fb7d40'
           - organization: '#3c5a6f'
           - shareholderPerson: '#EB639A'
       - links:

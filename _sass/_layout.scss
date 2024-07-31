@@ -8,6 +8,7 @@ section#contracts_page {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: bold;
+    color: $eleven;
 }
 
 h1 {
@@ -46,4 +47,21 @@ a {
 @font-face {
     font-family: "colbyBold";
     src: url('./fonts/Colby Bold.otf');
+}
+
+.bg-general {
+    background-image: url("../assets/img/fondo_webRS10_2.png");
+    background-position: 50% 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.page {
+    p, ul {
+        color: white;
+        // text-shadow: $gray-500 0 0 10px;
+        font-weight: 700;
+    }
+
 }

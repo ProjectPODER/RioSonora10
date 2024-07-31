@@ -88,6 +88,6 @@ $font-size-lg:                ($font-size-base * 1.25) !default;
 $font-size-sm:                ($font-size-base * .875) !default;
 
 // Preloader colors
-$preloader-color1: #1ee6d3;
-$preloader-color2: #343a40;
+$preloader-color1: $three;
+$preloader-color2: $eleven;
 $preloader-color3: $primary;

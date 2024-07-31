@@ -4,8 +4,9 @@
     height: auto;
     min-height: 35rem;
     padding: 10rem 0;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
-    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
+    // background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
+    // background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
+    background-image: url('#{$bgHome}');
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -20,8 +21,8 @@
 
     h1 {
         // text-shadow: rgb(148, 52, 148) 4px 0px 0px, rgb(148, 52, 148) 3.87565px 0.989616px 0px, rgb(148, 52, 148) 3.51033px 1.9177px 0px, rgb(148, 52, 148) 2.92676px 2.72656px 0px, rgb(148, 52, 148) 2.16121px 3.36588px 0px, rgb(148, 52, 148) 1.26129px 3.79594px 0px, rgb(148, 52, 148) 0.282949px 3.98998px 0px, rgb(148, 52, 148) -0.712984px 3.93594px 0px, rgb(148, 52, 148) -1.66459px 3.63719px 0px, rgb(148, 52, 148) -2.51269px 3.11229px 0px, rgb(148, 52, 148) -3.20457px 2.39389px 0px, rgb(148, 52, 148) -3.69721px 1.52664px 0px, rgb(148, 52, 148) -3.95997px 0.56448px 0px, rgb(148, 52, 148) -3.97652px -0.432781px 0px, rgb(148, 52, 148) -3.74583px -1.40313px 0px, rgb(148, 52, 148) -3.28224px -2.28625px 0px, rgb(148, 52, 148) -2.61457px -3.02721px 0px, rgb(148, 52, 148) -1.78435px -3.57996px 0px, rgb(148, 52, 148) -0.843183px -3.91012px 0px, rgb(148, 52, 148) 0.150409px -3.99717px 0px, rgb(148, 52, 148) 1.13465px -3.8357px 0px, rgb(148, 52, 148) 2.04834px -3.43574px 0px, rgb(148, 52, 148) 2.83468px -2.82216px 0px, rgb(148, 52, 148) 3.44477px -2.03312px 0px, rgb(148, 52, 148) 3.84068px -1.11766px 0px, rgb(148, 52, 148) 3.9978px -0.132717px 0px;
-        text-shadow: 5px 4px 1px rgba(148, 52, 148, 1);
-        color: $white;
+        // text-shadow: 5px 4px 1px rgba(148, 52, 148, 1);
+        color: $eleven;
     }
     p {
         color: $white;
@@ -33,6 +34,14 @@
         @extend .btn;
         @extend .btn-primary;
         margin: 2rem 0.5rem 1rem 0.5rem;
+    }
+    .main-text {
+        background-color: rgba(0,102,181, 0.6);
+        // box-shadow: 0 0 50px rgba(0,102,181, 0.4);
+        padding: 20px;
+        border-radius: 10px;
+        // text-shadow: $eleven 0 0 5px;
+        margin-bottom: 0 !important;
     }
 }
 
