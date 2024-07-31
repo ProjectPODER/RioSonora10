@@ -46,12 +46,13 @@ graph:
   # colores de nodos y connectores
   - colours:
       - nodes:
-          - default: '#00b381'
-          - contract: '#00b381'
-          - contractTypes: '#ffcf03'
-          - contractByType: '#fb7d40'
-          - organization: '#3c5a6f'
-          - shareholderPerson: '#EB639A'
+          - default: '#ffcf03'
+          - contract: '#ffcf03'
+          - contractTypes: '#00b381'
+          - contractByType: '#34b9ef'
+          - organization: '#943494'
+          - shareholderPerson: '#0066b5'
+          - shareholderCorp: '#fb7d40'
       - links:
           - default: '#706F74'
           - contractsTypes: '#706F74'
