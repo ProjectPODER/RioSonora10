@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Casos legales
-permalink: /casos-legales/
+permalink: /Acceso a la Justicia/
 ---
 
-# Título
+# La lucha por la justicia en el Río Sonora
 
 
 Este es un párrafo.
