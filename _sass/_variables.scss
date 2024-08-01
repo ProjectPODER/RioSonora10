@@ -47,7 +47,7 @@ $primary:       $one !default;
 $secondary:     $two !default;
 $success:       $green !default;
 $info:          $cyan !default;
-$warning:       $yellow !default;
+$warning:       $twelve !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
@@ -65,7 +65,7 @@ $graphTooltipTitleColor: $info;
 // Links
 //
 // Style anchor elements.
-$link-color:                $secondary !default;
+$link-color:                $nine !default;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%) !default;
 $link-hover-decoration:     underline !default;

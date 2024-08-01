@@ -14,14 +14,14 @@
 # Puedes crear cualquier variable personalizada que desees y será accesible
 # en las plantillas a través de {{site.myvariable}}.
 
-title: Tower Builder
+title: "10 años de injusticia: Río Sonora"
 
 # Imagen del logo
 image: tb-logo.png
 
 #Descripción de tu sitio
 description: >-
-  TowerBuilder es un sistema para generar sitios web con visualizaciones de datos que combinan datos de contrataciones abiertas y beneficiarios reales, todo sin necesidad de conocimientos de programación.
+  El 6 de agosto de 2014 Grupo México derramó millones de litros de sustancias tóxicas al río Sonora dejando sin agua a más de 20 mil personas. A 10 años del peor desastre ambiental en la historia de la minería en México,las personas afectadas siguen reclamando justicia, remediación integral y garantías de no repetición.
 
 # Activa el menu de arriba: true o false
 top_menu: true
@@ -68,7 +68,7 @@ graph:
   - contracts_format: "csv"
 
 # Personaliza los títulos y placeholders de los inputs en el buscador de contratos
-contracts_title: Concesiones por empresas
+contracts_title: Concesiones mineras
 search_title: Búsqueda
 search_placeholder: Introduce palabra clave a buscar
 amount_title: Superficie (hectáreas)

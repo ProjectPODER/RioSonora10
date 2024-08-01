@@ -1,10 +1,8 @@
 ---
-title: Proyecto de
-image-logo: logoPODER_19.png
-image-name: Logo de PODER
+title: Apoyo de
+image-logo: ccrs.png
+image-name: Logo de Comités Cuenca Río Sonora
 width-logo: 100px
-# If there are more logos
-image-logo2:
-image-name2:
-width-logo2:
+link: https://comitescuencariosonora.wordpress.com/
+
 ---

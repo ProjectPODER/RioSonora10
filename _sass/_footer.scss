@@ -1,10 +1,14 @@
 footer {
-  background-color: #333333;
+  background-color: $eight;
+
+  a:hover {
+    text-decoration: none;
+  }
 }
 .footer-logo {
   padding: 10px;
   text-align: center;
 }
 .footer-title {
-  color: #ffffff;
+  color: #212529;
 }

@@ -3,11 +3,12 @@
 
 {%- include head.html -%}
 
-<body class="d-flex flex-column min-vh-100 bg-general">
+<body class="d-flex flex-column min-vh-100 bg-general {% if site.title == 'Contaminador serial | 10 años de injusticia: Río Sonora' -%}bg-general2{%- endif -%}">
   {%- if site.top_menu -%}
   {%- include header.html -%}
   {%- endif -%}
   {{ content }}
+  {%- include footer.html -%}
 </body>
 
 </html>

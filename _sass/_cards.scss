@@ -11,6 +11,33 @@
 }
 
 .card {
+  background-color: $eight;
+}
+
+.bg-light {
   background-color: $eight !important;
 }
 
+.number-title {
+  font-size: 4em;
+  color: $secondary !important;
+}
+
+.text-title {
+  font-size: 1.8em;
+  // line-height: 1.4;
+}
+
+.text-purple {
+  color: $secondary !important;
+}
+
+.btn-outline-secondary {
+  color: $nine;
+  border-color: $nine;
+}
+
+.btn-outline-secondary:hover {
+  background-color: $nine;
+  border-color: $nine;
+}
