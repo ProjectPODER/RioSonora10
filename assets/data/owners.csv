@@ -115,9 +115,8 @@ Mexicana De Cobre SA de CV,empresa,,
 Minera Pilares SA de CV ,empresa,,
 Buenavista del Cobre SA de CV,empresa,,
 Grupo México SAB de CV,empresa,Mexicana De Cobre SA de CV,parent
-Grupo México SAB de CV,empresa,Minera Pilares SA de CV ,parent
-Grupo México SAB de CV,empresa,Americas Mining Corporation,parent
-Americas Mining Corporation,empresa,Southern Copper Corporation ,parent
+Grupo México SAB de CV,empresa,Minera Pilares SA de CV,parent
+Grupo México SAB de CV,empresa,Southern Copper Corporation,shareholder
 Southern Copper Corporation ,empresa,Buenavista del Cobre SA de CV,parent
 Empresarios Industriales De México SA De CV,empresa,Grupo México SAB de CV,shareholder
 German Larrea Mota-Velasco,persona,Grupo México SAB de CV,shareholder
