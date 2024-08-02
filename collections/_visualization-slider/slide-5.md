@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: visualization-example.png
+image: visualization5.png
 ---
 
 # Las beneficiarias de la destrucción del río Sonora

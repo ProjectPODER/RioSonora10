@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualization4.png
 ---
 
 # Grupo México, ganando a costa de la impunidad

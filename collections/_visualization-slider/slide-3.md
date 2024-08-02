@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualization-example.png
+image: visualization3.png
 ---
 
 # ¿Quiénes controlan el territorio concesionado?

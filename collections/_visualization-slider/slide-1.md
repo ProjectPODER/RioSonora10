@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: visualization1.png
 ---
 
 # Minería en el río Sonora, responsable impune del desastre
