@@ -1850,9 +1850,8 @@ function setupD3() {
                   : "orgs";
                 return `
                       <p class="title">${nameText}</p>
-                      <p>Contratos: ${contractsCount}</p>
-                      <p>${descriptionLink}:</p>
-                      <p><a rel="noreferrer noopener" target="_blank" href="https://quienesquien.wiki/${typeText}/${nameText}">https://quienesquien.wiki/${typeText}/${nameText}</a></p>
+                      <p>Concesiones: ${contractsCount}</p>
+
                 `;
                 break;
               }
