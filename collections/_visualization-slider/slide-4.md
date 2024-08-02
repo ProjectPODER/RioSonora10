@@ -3,6 +3,6 @@ title: Slide 4
 image: visualization-example.png
 ---
 
-# Grupo México, el gran ganador
+# Grupo México, ganando a costa de la impunidad
 
-De las 10 empresas mineras con mayor control sobre el territorio concesionado, identificamos 8 casas matrices que acumulan ese poder, en primer lugar se encuentra Grupo México SAB de CV con 192,686 hectáreas equivalente al 19% del total, seguida por: Teck Resources Limited con 183,202 hectáreas equivalente al 18%, Riverside Resources Inc con 148,605 hectáreas equivalente al 15%, First Majestic Silver Corp con 105,988 hectáreas equivalente al 11%, Gogold Resources Inc con 44,189 hectáreas equivalente al 4%, Industrias Peñoles SAB de CV con 41356hectáreas equivalente al 4%, Tianjin Binhai Harbor Port Int Trade con 35,111 hectáreas equivalente al 3% y Minera Frisco SAB de CV con	30,360 hectáreas equivalente al 3%.
+Las 10 empresas mineras con mayor control sobre el territorio concesionado son propiedad de 8 empresas matrices. **Grupo México SAB de CV**, propietaria de Buenavista del Cobre SA de CV, la responsable de containar el río Sonora el 6 de agosto de 2014, controla 192,686 hectáreas equivalente al 19% del total concesionado. **Teck Resources Limited** tiene 183,202 hectáreas, el 18% de la superficie concesionada. **Riverside Resources Inc** 148,605 hectáreas equivalentes al 15%. **First Majestic Silver Corp** controla 105,988 hectáreas equivalentes al 11%, **Gogold Resources Inc** 44,189 hectáreas equivalente al 4%, **Industrias Peñoles SAB de CV** 41,356 hectáreas (4%), **Tianjin Binhai Harbor Port Int Trade** 35,111 hectáreas (3%) y **Minera Frisco SAB de CV** 30,360 hectáreas (3%).
