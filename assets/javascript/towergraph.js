@@ -1825,7 +1825,7 @@ function setupD3() {
                       <p class="title">${d.name}</p>
                       <span>Proveedores:</span>
                 <ul> ${suppliersListHTML}</ul>
-                <p>Hectáreas totales: <span>$${amountText}</span></p>
+                <p>Hectáreas totales: <span>${amountText}</span></p>
                 `;
                 break;
               }
