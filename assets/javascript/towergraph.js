@@ -960,7 +960,7 @@ function initGraph(data) {
                 id: shareholderId,
                 name: shareholderName,
                 simple: shareholderSimple,
-                activeSize: shareholderContractsCount * 2 + 10,
+                activeSize: shareholderContractsCount * 1 + 10, //shareholders size
                 inactiveSize: 10,
                 topParentNode: false,
                 nodeForce: 10,
@@ -1057,7 +1057,7 @@ function initGraph(data) {
                 name: boardName,
                 simple: boardSimple,
                 // activeSize: boardContractsCount * 2 + 10,
-                activeSize: (nodeSizes.min*2) + Math.log2(1 + boardContractsCount/AppData.contracts.length) * (nodeSizes.max - nodeSizes.min),
+                activeSize: (nodeSizes.min*3) + Math.log2(1 + boardContractsCount/AppData.contracts.length) * (nodeSizes.max - nodeSizes.min),
                 inactiveSize: 10,
                 topParentNode: false,
                 nodeForce: 10,

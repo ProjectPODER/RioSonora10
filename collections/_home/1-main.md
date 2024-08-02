@@ -13,15 +13,15 @@ media-left: false
 
 
 ---
-# 10 AÑOS DE INJUSTICIA: RÍO SONORA
+# 10 AÑOS DE INJUSTICIA: <br> RÍO SONORA
 
 {:.main-text}
 El 6 de agosto de 2014 Grupo México derramó millones de litros de sustancias tóxicas al río Sonora dejando sin agua a más de 20 mil personas. A 10 años del peor desastre ambiental en la historia de la minería en México, las personas afectadas siguen reclamando justicia, reparación integral y garantías de no repetición.
 
-[Evidencia tóxica](/evidencia-toxica/)
-[Contaminador serial](/contaminador-serial/)
-[Lucha por la reparación](/10-años-de-lucha/)
-[Mapa tóxico](/mapa-tóxico/)
+[Evidencia tóxica](/RioSonora10/evidencia-toxica/)
+[Contaminador serial](/RioSonora10/contaminador-serial/)
+[Lucha por la reparación](/RioSonora10/10-años-de-lucha/)
+[Mapa tóxico](/RioSonora10/mapa-tóxico/)
 
 
 
