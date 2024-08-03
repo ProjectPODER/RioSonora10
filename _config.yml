@@ -75,10 +75,10 @@ amount_title: Superficie (hectáreas)
 amount_from_placeholder: Desde
 amount_to_placeholder: hasta
 type_contract_title: Estatus del proyecto
-type_contract_title_tooltip: La ley obliga a la Unidad Compradora a definir el tipo de contratación, ya que varían las normas en cada caso.
+type_contract_title_tooltip: Una concesión minera puede estar activa (con actividades de exploración y/o explotación minera) o inactiva (no hay en ese momento desarrollo de un proyecto minero en esa concesión
 type_contract_all_option: Todo
 type_procedure_title: Etapa del proyecto
-type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
+type_procedure_title_tooltip: "Un proyecto minero atraviesa diferentes etapas: 1. Concesión 2. Exploración 3. Explotación 4. Depósito o disposición de materiales y desechos"
 type_procedure_all_option: Todo
 date_range_title: Rango de fechas
 date_range_from_placeholder: Desde
