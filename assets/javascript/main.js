@@ -141,3 +141,15 @@ $(document)
             history.replaceState({}, "", $('.nav-item .active').attr("href"));
         });
     });
+
+
+$(document).ready(
+    function () {
+        // Se mostrara el modal 1segundo despues de haber cargado la pagina
+        setTimeout(
+            function () {
+                $('#paypalModal').modal();
+            }, 5000);
+
+    }
+);
